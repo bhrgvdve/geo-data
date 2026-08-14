@@ -1,0 +1,38 @@
+[
+  {
+    "currency_id": 23,
+    "is_primary": true
+  },
+  {
+    "currency_id": 31,
+    "is_primary": false
+  },
+  {
+    "currency_id": 45,
+    "is_primary": false
+  },
+  {
+    "currency_id": 49,
+    "is_primary": false
+  },
+  {
+    "currency_id": 65,
+    "is_primary": false
+  },
+  {
+    "currency_id": 72,
+    "is_primary": false
+  },
+  {
+    "currency_id": 149,
+    "is_primary": false
+  },
+  {
+    "currency_id": 161,
+    "is_primary": false
+  },
+  {
+    "currency_id": 163,
+    "is_primary": false
+  }
+]

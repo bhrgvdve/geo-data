@@ -1,0 +1,14 @@
+[
+  {
+    "calling_code_id": 123,
+    "is_primary": true
+  },
+  {
+    "calling_code_id": 124,
+    "is_primary": false
+  },
+  {
+    "calling_code_id": 125,
+    "is_primary": false
+  }
+]

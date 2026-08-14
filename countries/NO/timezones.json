@@ -1,0 +1,10 @@
+[
+  {
+    "timezone_id": 212,
+    "is_primary": true
+  },
+  {
+    "timezone_id": 351,
+    "is_primary": false
+  }
+]

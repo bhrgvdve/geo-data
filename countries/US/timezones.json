@@ -1,0 +1,118 @@
+[
+  {
+    "timezone_id": 53,
+    "is_primary": true
+  },
+  {
+    "timezone_id": 54,
+    "is_primary": false
+  },
+  {
+    "timezone_id": 81,
+    "is_primary": false
+  },
+  {
+    "timezone_id": 88,
+    "is_primary": false
+  },
+  {
+    "timezone_id": 99,
+    "is_primary": false
+  },
+  {
+    "timezone_id": 100,
+    "is_primary": false
+  },
+  {
+    "timezone_id": 118,
+    "is_primary": false
+  },
+  {
+    "timezone_id": 119,
+    "is_primary": false
+  },
+  {
+    "timezone_id": 120,
+    "is_primary": false
+  },
+  {
+    "timezone_id": 121,
+    "is_primary": false
+  },
+  {
+    "timezone_id": 122,
+    "is_primary": false
+  },
+  {
+    "timezone_id": 123,
+    "is_primary": false
+  },
+  {
+    "timezone_id": 124,
+    "is_primary": false
+  },
+  {
+    "timezone_id": 125,
+    "is_primary": false
+  },
+  {
+    "timezone_id": 129,
+    "is_primary": false
+  },
+  {
+    "timezone_id": 130,
+    "is_primary": false
+  },
+  {
+    "timezone_id": 131,
+    "is_primary": false
+  },
+  {
+    "timezone_id": 135,
+    "is_primary": false
+  },
+  {
+    "timezone_id": 143,
+    "is_primary": false
+  },
+  {
+    "timezone_id": 145,
+    "is_primary": false
+  },
+  {
+    "timezone_id": 153,
+    "is_primary": false
+  },
+  {
+    "timezone_id": 155,
+    "is_primary": false
+  },
+  {
+    "timezone_id": 157,
+    "is_primary": false
+  },
+  {
+    "timezone_id": 158,
+    "is_primary": false
+  },
+  {
+    "timezone_id": 159,
+    "is_primary": false
+  },
+  {
+    "timezone_id": 165,
+    "is_primary": false
+  },
+  {
+    "timezone_id": 182,
+    "is_primary": false
+  },
+  {
+    "timezone_id": 199,
+    "is_primary": false
+  },
+  {
+    "timezone_id": 404,
+    "is_primary": false
+  }
+]

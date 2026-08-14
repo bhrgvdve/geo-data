@@ -1,0 +1,3507 @@
+[
+  {
+    "id": 1,
+    "country_id": 1,
+    "code": "+93"
+  },
+  {
+    "id": 2,
+    "country_id": 2,
+    "code": "+35818"
+  },
+  {
+    "id": 3,
+    "country_id": 3,
+    "code": "+355"
+  },
+  {
+    "id": 4,
+    "country_id": 4,
+    "code": "+213"
+  },
+  {
+    "id": 5,
+    "country_id": 5,
+    "code": "+1684"
+  },
+  {
+    "id": 6,
+    "country_id": 6,
+    "code": "+376"
+  },
+  {
+    "id": 7,
+    "country_id": 7,
+    "code": "+244"
+  },
+  {
+    "id": 8,
+    "country_id": 8,
+    "code": "+1264"
+  },
+  {
+    "id": 9,
+    "country_id": 9,
+    "code": "+672"
+  },
+  {
+    "id": 10,
+    "country_id": 10,
+    "code": "+1268"
+  },
+  {
+    "id": 11,
+    "country_id": 11,
+    "code": "+54"
+  },
+  {
+    "id": 12,
+    "country_id": 12,
+    "code": "+374"
+  },
+  {
+    "id": 13,
+    "country_id": 13,
+    "code": "+297"
+  },
+  {
+    "id": 14,
+    "country_id": 14,
+    "code": "+61"
+  },
+  {
+    "id": 15,
+    "country_id": 15,
+    "code": "+43"
+  },
+  {
+    "id": 16,
+    "country_id": 16,
+    "code": "+994"
+  },
+  {
+    "id": 17,
+    "country_id": 17,
+    "code": "+1242"
+  },
+  {
+    "id": 18,
+    "country_id": 18,
+    "code": "+973"
+  },
+  {
+    "id": 19,
+    "country_id": 19,
+    "code": "+880"
+  },
+  {
+    "id": 20,
+    "country_id": 20,
+    "code": "+1246"
+  },
+  {
+    "id": 21,
+    "country_id": 21,
+    "code": "+375"
+  },
+  {
+    "id": 22,
+    "country_id": 22,
+    "code": "+32"
+  },
+  {
+    "id": 23,
+    "country_id": 23,
+    "code": "+501"
+  },
+  {
+    "id": 24,
+    "country_id": 24,
+    "code": "+229"
+  },
+  {
+    "id": 25,
+    "country_id": 25,
+    "code": "+1441"
+  },
+  {
+    "id": 26,
+    "country_id": 26,
+    "code": "+975"
+  },
+  {
+    "id": 27,
+    "country_id": 27,
+    "code": "+591"
+  },
+  {
+    "id": 28,
+    "country_id": 28,
+    "code": "+387"
+  },
+  {
+    "id": 29,
+    "country_id": 29,
+    "code": "+267"
+  },
+  {
+    "id": 30,
+    "country_id": 30,
+    "code": "+47"
+  },
+  {
+    "id": 31,
+    "country_id": 31,
+    "code": "+55"
+  },
+  {
+    "id": 32,
+    "country_id": 32,
+    "code": "+246"
+  },
+  {
+    "id": 33,
+    "country_id": 33,
+    "code": "+673"
+  },
+  {
+    "id": 34,
+    "country_id": 34,
+    "code": "+359"
+  },
+  {
+    "id": 35,
+    "country_id": 35,
+    "code": "+226"
+  },
+  {
+    "id": 36,
+    "country_id": 36,
+    "code": "+257"
+  },
+  {
+    "id": 37,
+    "country_id": 37,
+    "code": "+855"
+  },
+  {
+    "id": 38,
+    "country_id": 38,
+    "code": "+237"
+  },
+  {
+    "id": 39,
+    "country_id": 39,
+    "code": "+1204"
+  },
+  {
+    "id": 40,
+    "country_id": 39,
+    "code": "+1226"
+  },
+  {
+    "id": 41,
+    "country_id": 39,
+    "code": "+1236"
+  },
+  {
+    "id": 42,
+    "country_id": 39,
+    "code": "+1249"
+  },
+  {
+    "id": 43,
+    "country_id": 39,
+    "code": "+1250"
+  },
+  {
+    "id": 44,
+    "country_id": 39,
+    "code": "+1263"
+  },
+  {
+    "id": 45,
+    "country_id": 39,
+    "code": "+1289"
+  },
+  {
+    "id": 46,
+    "country_id": 39,
+    "code": "+1306"
+  },
+  {
+    "id": 47,
+    "country_id": 39,
+    "code": "+1343"
+  },
+  {
+    "id": 48,
+    "country_id": 39,
+    "code": "+1354"
+  },
+  {
+    "id": 49,
+    "country_id": 39,
+    "code": "+1365"
+  },
+  {
+    "id": 50,
+    "country_id": 39,
+    "code": "+1367"
+  },
+  {
+    "id": 51,
+    "country_id": 39,
+    "code": "+1368"
+  },
+  {
+    "id": 52,
+    "country_id": 39,
+    "code": "+1382"
+  },
+  {
+    "id": 53,
+    "country_id": 39,
+    "code": "+1387"
+  },
+  {
+    "id": 54,
+    "country_id": 39,
+    "code": "+1403"
+  },
+  {
+    "id": 55,
+    "country_id": 39,
+    "code": "+1416"
+  },
+  {
+    "id": 56,
+    "country_id": 39,
+    "code": "+1418"
+  },
+  {
+    "id": 57,
+    "country_id": 39,
+    "code": "+1428"
+  },
+  {
+    "id": 58,
+    "country_id": 39,
+    "code": "+1431"
+  },
+  {
+    "id": 59,
+    "country_id": 39,
+    "code": "+1437"
+  },
+  {
+    "id": 60,
+    "country_id": 39,
+    "code": "+1438"
+  },
+  {
+    "id": 61,
+    "country_id": 39,
+    "code": "+1450"
+  },
+  {
+    "id": 62,
+    "country_id": 39,
+    "code": "+1468"
+  },
+  {
+    "id": 63,
+    "country_id": 39,
+    "code": "+1474"
+  },
+  {
+    "id": 64,
+    "country_id": 39,
+    "code": "+1506"
+  },
+  {
+    "id": 65,
+    "country_id": 39,
+    "code": "+1514"
+  },
+  {
+    "id": 66,
+    "country_id": 39,
+    "code": "+1519"
+  },
+  {
+    "id": 67,
+    "country_id": 39,
+    "code": "+1548"
+  },
+  {
+    "id": 68,
+    "country_id": 39,
+    "code": "+1579"
+  },
+  {
+    "id": 69,
+    "country_id": 39,
+    "code": "+1581"
+  },
+  {
+    "id": 70,
+    "country_id": 39,
+    "code": "+1584"
+  },
+  {
+    "id": 71,
+    "country_id": 39,
+    "code": "+1587"
+  },
+  {
+    "id": 72,
+    "country_id": 39,
+    "code": "+1600"
+  },
+  {
+    "id": 73,
+    "country_id": 39,
+    "code": "+1604"
+  },
+  {
+    "id": 74,
+    "country_id": 39,
+    "code": "+1613"
+  },
+  {
+    "id": 75,
+    "country_id": 39,
+    "code": "+1622"
+  },
+  {
+    "id": 76,
+    "country_id": 39,
+    "code": "+1633"
+  },
+  {
+    "id": 77,
+    "country_id": 39,
+    "code": "+1639"
+  },
+  {
+    "id": 78,
+    "country_id": 39,
+    "code": "+1644"
+  },
+  {
+    "id": 79,
+    "country_id": 39,
+    "code": "+1647"
+  },
+  {
+    "id": 80,
+    "country_id": 39,
+    "code": "+1655"
+  },
+  {
+    "id": 81,
+    "country_id": 39,
+    "code": "+1672"
+  },
+  {
+    "id": 82,
+    "country_id": 39,
+    "code": "+1677"
+  },
+  {
+    "id": 83,
+    "country_id": 39,
+    "code": "+1683"
+  },
+  {
+    "id": 84,
+    "country_id": 39,
+    "code": "+1688"
+  },
+  {
+    "id": 85,
+    "country_id": 39,
+    "code": "+1705"
+  },
+  {
+    "id": 86,
+    "country_id": 39,
+    "code": "+1709"
+  },
+  {
+    "id": 87,
+    "country_id": 39,
+    "code": "+1742"
+  },
+  {
+    "id": 88,
+    "country_id": 39,
+    "code": "+1753"
+  },
+  {
+    "id": 89,
+    "country_id": 39,
+    "code": "+1778"
+  },
+  {
+    "id": 90,
+    "country_id": 39,
+    "code": "+1780"
+  },
+  {
+    "id": 91,
+    "country_id": 39,
+    "code": "+1782"
+  },
+  {
+    "id": 92,
+    "country_id": 39,
+    "code": "+1807"
+  },
+  {
+    "id": 93,
+    "country_id": 39,
+    "code": "+1819"
+  },
+  {
+    "id": 94,
+    "country_id": 39,
+    "code": "+1825"
+  },
+  {
+    "id": 95,
+    "country_id": 39,
+    "code": "+1867"
+  },
+  {
+    "id": 96,
+    "country_id": 39,
+    "code": "+1873"
+  },
+  {
+    "id": 97,
+    "country_id": 39,
+    "code": "+1879"
+  },
+  {
+    "id": 98,
+    "country_id": 39,
+    "code": "+1902"
+  },
+  {
+    "id": 99,
+    "country_id": 39,
+    "code": "+1905"
+  },
+  {
+    "id": 100,
+    "country_id": 39,
+    "code": "+1942"
+  },
+  {
+    "id": 101,
+    "country_id": 40,
+    "code": "+238"
+  },
+  {
+    "id": 102,
+    "country_id": 41,
+    "code": "+1345"
+  },
+  {
+    "id": 103,
+    "country_id": 42,
+    "code": "+236"
+  },
+  {
+    "id": 104,
+    "country_id": 43,
+    "code": "+235"
+  },
+  {
+    "id": 105,
+    "country_id": 44,
+    "code": "+56"
+  },
+  {
+    "id": 106,
+    "country_id": 45,
+    "code": "+86"
+  },
+  {
+    "id": 107,
+    "country_id": 46,
+    "code": "+61"
+  },
+  {
+    "id": 108,
+    "country_id": 47,
+    "code": "+61"
+  },
+  {
+    "id": 109,
+    "country_id": 48,
+    "code": "+57"
+  },
+  {
+    "id": 110,
+    "country_id": 49,
+    "code": "+269"
+  },
+  {
+    "id": 111,
+    "country_id": 50,
+    "code": "+242"
+  },
+  {
+    "id": 112,
+    "country_id": 51,
+    "code": "+243"
+  },
+  {
+    "id": 113,
+    "country_id": 52,
+    "code": "+682"
+  },
+  {
+    "id": 114,
+    "country_id": 53,
+    "code": "+506"
+  },
+  {
+    "id": 115,
+    "country_id": 54,
+    "code": "+225"
+  },
+  {
+    "id": 116,
+    "country_id": 55,
+    "code": "+385"
+  },
+  {
+    "id": 117,
+    "country_id": 56,
+    "code": "+53"
+  },
+  {
+    "id": 118,
+    "country_id": 57,
+    "code": "+357"
+  },
+  {
+    "id": 119,
+    "country_id": 58,
+    "code": "+420"
+  },
+  {
+    "id": 120,
+    "country_id": 59,
+    "code": "+45"
+  },
+  {
+    "id": 121,
+    "country_id": 60,
+    "code": "+253"
+  },
+  {
+    "id": 122,
+    "country_id": 61,
+    "code": "+1767"
+  },
+  {
+    "id": 123,
+    "country_id": 62,
+    "code": "+1809"
+  },
+  {
+    "id": 124,
+    "country_id": 62,
+    "code": "+1829"
+  },
+  {
+    "id": 125,
+    "country_id": 62,
+    "code": "+1849"
+  },
+  {
+    "id": 126,
+    "country_id": 63,
+    "code": "+670"
+  },
+  {
+    "id": 127,
+    "country_id": 64,
+    "code": "+593"
+  },
+  {
+    "id": 128,
+    "country_id": 65,
+    "code": "+20"
+  },
+  {
+    "id": 129,
+    "country_id": 66,
+    "code": "+503"
+  },
+  {
+    "id": 130,
+    "country_id": 67,
+    "code": "+240"
+  },
+  {
+    "id": 131,
+    "country_id": 68,
+    "code": "+291"
+  },
+  {
+    "id": 132,
+    "country_id": 69,
+    "code": "+372"
+  },
+  {
+    "id": 133,
+    "country_id": 70,
+    "code": "+251"
+  },
+  {
+    "id": 134,
+    "country_id": 71,
+    "code": "+500"
+  },
+  {
+    "id": 135,
+    "country_id": 72,
+    "code": "+298"
+  },
+  {
+    "id": 136,
+    "country_id": 73,
+    "code": "+679"
+  },
+  {
+    "id": 137,
+    "country_id": 74,
+    "code": "+358"
+  },
+  {
+    "id": 138,
+    "country_id": 75,
+    "code": "+33"
+  },
+  {
+    "id": 139,
+    "country_id": 76,
+    "code": "+594"
+  },
+  {
+    "id": 140,
+    "country_id": 77,
+    "code": "+689"
+  },
+  {
+    "id": 141,
+    "country_id": 78,
+    "code": "+262"
+  },
+  {
+    "id": 142,
+    "country_id": 79,
+    "code": "+241"
+  },
+  {
+    "id": 143,
+    "country_id": 80,
+    "code": "+220"
+  },
+  {
+    "id": 144,
+    "country_id": 81,
+    "code": "+995"
+  },
+  {
+    "id": 145,
+    "country_id": 82,
+    "code": "+49"
+  },
+  {
+    "id": 146,
+    "country_id": 83,
+    "code": "+233"
+  },
+  {
+    "id": 147,
+    "country_id": 84,
+    "code": "+350"
+  },
+  {
+    "id": 148,
+    "country_id": 85,
+    "code": "+30"
+  },
+  {
+    "id": 149,
+    "country_id": 86,
+    "code": "+299"
+  },
+  {
+    "id": 150,
+    "country_id": 87,
+    "code": "+1473"
+  },
+  {
+    "id": 151,
+    "country_id": 88,
+    "code": "+590"
+  },
+  {
+    "id": 152,
+    "country_id": 89,
+    "code": "+1671"
+  },
+  {
+    "id": 153,
+    "country_id": 90,
+    "code": "+502"
+  },
+  {
+    "id": 154,
+    "country_id": 91,
+    "code": "+91"
+  },
+  {
+    "id": 155,
+    "country_id": 92,
+    "code": "+224"
+  },
+  {
+    "id": 156,
+    "country_id": 93,
+    "code": "+245"
+  },
+  {
+    "id": 157,
+    "country_id": 94,
+    "code": "+592"
+  },
+  {
+    "id": 158,
+    "country_id": 95,
+    "code": "+509"
+  },
+  {
+    "id": 159,
+    "country_id": 96,
+    "code": "+672"
+  },
+  {
+    "id": 160,
+    "country_id": 97,
+    "code": "+504"
+  },
+  {
+    "id": 161,
+    "country_id": 98,
+    "code": "+852"
+  },
+  {
+    "id": 162,
+    "country_id": 99,
+    "code": "+36"
+  },
+  {
+    "id": 163,
+    "country_id": 100,
+    "code": "+354"
+  },
+  {
+    "id": 164,
+    "country_id": 102,
+    "code": "+62"
+  },
+  {
+    "id": 165,
+    "country_id": 103,
+    "code": "+98"
+  },
+  {
+    "id": 166,
+    "country_id": 104,
+    "code": "+964"
+  },
+  {
+    "id": 167,
+    "country_id": 105,
+    "code": "+353"
+  },
+  {
+    "id": 168,
+    "country_id": 106,
+    "code": "+972"
+  },
+  {
+    "id": 169,
+    "country_id": 107,
+    "code": "+39"
+  },
+  {
+    "id": 170,
+    "country_id": 108,
+    "code": "+1876"
+  },
+  {
+    "id": 171,
+    "country_id": 109,
+    "code": "+81"
+  },
+  {
+    "id": 172,
+    "country_id": 110,
+    "code": "+44"
+  },
+  {
+    "id": 173,
+    "country_id": 111,
+    "code": "+962"
+  },
+  {
+    "id": 174,
+    "country_id": 112,
+    "code": "+76"
+  },
+  {
+    "id": 175,
+    "country_id": 112,
+    "code": "+77"
+  },
+  {
+    "id": 176,
+    "country_id": 113,
+    "code": "+254"
+  },
+  {
+    "id": 177,
+    "country_id": 114,
+    "code": "+686"
+  },
+  {
+    "id": 178,
+    "country_id": 115,
+    "code": "+850"
+  },
+  {
+    "id": 179,
+    "country_id": 116,
+    "code": "+82"
+  },
+  {
+    "id": 180,
+    "country_id": 117,
+    "code": "+965"
+  },
+  {
+    "id": 181,
+    "country_id": 118,
+    "code": "+996"
+  },
+  {
+    "id": 182,
+    "country_id": 119,
+    "code": "+856"
+  },
+  {
+    "id": 183,
+    "country_id": 120,
+    "code": "+371"
+  },
+  {
+    "id": 184,
+    "country_id": 121,
+    "code": "+961"
+  },
+  {
+    "id": 185,
+    "country_id": 122,
+    "code": "+266"
+  },
+  {
+    "id": 186,
+    "country_id": 123,
+    "code": "+231"
+  },
+  {
+    "id": 187,
+    "country_id": 124,
+    "code": "+218"
+  },
+  {
+    "id": 188,
+    "country_id": 125,
+    "code": "+423"
+  },
+  {
+    "id": 189,
+    "country_id": 126,
+    "code": "+370"
+  },
+  {
+    "id": 190,
+    "country_id": 127,
+    "code": "+352"
+  },
+  {
+    "id": 191,
+    "country_id": 128,
+    "code": "+853"
+  },
+  {
+    "id": 192,
+    "country_id": 129,
+    "code": "+389"
+  },
+  {
+    "id": 193,
+    "country_id": 130,
+    "code": "+261"
+  },
+  {
+    "id": 194,
+    "country_id": 131,
+    "code": "+265"
+  },
+  {
+    "id": 195,
+    "country_id": 132,
+    "code": "+60"
+  },
+  {
+    "id": 196,
+    "country_id": 133,
+    "code": "+960"
+  },
+  {
+    "id": 197,
+    "country_id": 134,
+    "code": "+223"
+  },
+  {
+    "id": 198,
+    "country_id": 135,
+    "code": "+356"
+  },
+  {
+    "id": 199,
+    "country_id": 136,
+    "code": "+44"
+  },
+  {
+    "id": 200,
+    "country_id": 137,
+    "code": "+692"
+  },
+  {
+    "id": 201,
+    "country_id": 138,
+    "code": "+596"
+  },
+  {
+    "id": 202,
+    "country_id": 139,
+    "code": "+222"
+  },
+  {
+    "id": 203,
+    "country_id": 140,
+    "code": "+230"
+  },
+  {
+    "id": 204,
+    "country_id": 141,
+    "code": "+262"
+  },
+  {
+    "id": 205,
+    "country_id": 142,
+    "code": "+52"
+  },
+  {
+    "id": 206,
+    "country_id": 143,
+    "code": "+691"
+  },
+  {
+    "id": 207,
+    "country_id": 144,
+    "code": "+373"
+  },
+  {
+    "id": 208,
+    "country_id": 145,
+    "code": "+377"
+  },
+  {
+    "id": 209,
+    "country_id": 146,
+    "code": "+976"
+  },
+  {
+    "id": 210,
+    "country_id": 147,
+    "code": "+382"
+  },
+  {
+    "id": 211,
+    "country_id": 148,
+    "code": "+1664"
+  },
+  {
+    "id": 212,
+    "country_id": 149,
+    "code": "+212"
+  },
+  {
+    "id": 213,
+    "country_id": 150,
+    "code": "+258"
+  },
+  {
+    "id": 214,
+    "country_id": 151,
+    "code": "+95"
+  },
+  {
+    "id": 215,
+    "country_id": 152,
+    "code": "+264"
+  },
+  {
+    "id": 216,
+    "country_id": 153,
+    "code": "+674"
+  },
+  {
+    "id": 217,
+    "country_id": 154,
+    "code": "+977"
+  },
+  {
+    "id": 218,
+    "country_id": 155,
+    "code": "+599"
+  },
+  {
+    "id": 219,
+    "country_id": 156,
+    "code": "+31"
+  },
+  {
+    "id": 220,
+    "country_id": 157,
+    "code": "+687"
+  },
+  {
+    "id": 221,
+    "country_id": 158,
+    "code": "+64"
+  },
+  {
+    "id": 222,
+    "country_id": 159,
+    "code": "+505"
+  },
+  {
+    "id": 223,
+    "country_id": 160,
+    "code": "+227"
+  },
+  {
+    "id": 224,
+    "country_id": 161,
+    "code": "+234"
+  },
+  {
+    "id": 225,
+    "country_id": 162,
+    "code": "+683"
+  },
+  {
+    "id": 226,
+    "country_id": 163,
+    "code": "+672"
+  },
+  {
+    "id": 227,
+    "country_id": 164,
+    "code": "+1670"
+  },
+  {
+    "id": 228,
+    "country_id": 165,
+    "code": "+47"
+  },
+  {
+    "id": 229,
+    "country_id": 166,
+    "code": "+968"
+  },
+  {
+    "id": 230,
+    "country_id": 167,
+    "code": "+92"
+  },
+  {
+    "id": 231,
+    "country_id": 168,
+    "code": "+680"
+  },
+  {
+    "id": 232,
+    "country_id": 169,
+    "code": "+970"
+  },
+  {
+    "id": 233,
+    "country_id": 170,
+    "code": "+507"
+  },
+  {
+    "id": 234,
+    "country_id": 171,
+    "code": "+675"
+  },
+  {
+    "id": 235,
+    "country_id": 172,
+    "code": "+595"
+  },
+  {
+    "id": 236,
+    "country_id": 173,
+    "code": "+51"
+  },
+  {
+    "id": 237,
+    "country_id": 174,
+    "code": "+63"
+  },
+  {
+    "id": 238,
+    "country_id": 175,
+    "code": "+64"
+  },
+  {
+    "id": 239,
+    "country_id": 176,
+    "code": "+48"
+  },
+  {
+    "id": 240,
+    "country_id": 177,
+    "code": "+351"
+  },
+  {
+    "id": 241,
+    "country_id": 178,
+    "code": "+1787"
+  },
+  {
+    "id": 242,
+    "country_id": 178,
+    "code": "+1939"
+  },
+  {
+    "id": 243,
+    "country_id": 179,
+    "code": "+974"
+  },
+  {
+    "id": 244,
+    "country_id": 180,
+    "code": "+262"
+  },
+  {
+    "id": 245,
+    "country_id": 181,
+    "code": "+40"
+  },
+  {
+    "id": 246,
+    "country_id": 182,
+    "code": "+73"
+  },
+  {
+    "id": 247,
+    "country_id": 182,
+    "code": "+74"
+  },
+  {
+    "id": 248,
+    "country_id": 182,
+    "code": "+75"
+  },
+  {
+    "id": 249,
+    "country_id": 182,
+    "code": "+78"
+  },
+  {
+    "id": 250,
+    "country_id": 182,
+    "code": "+79"
+  },
+  {
+    "id": 251,
+    "country_id": 183,
+    "code": "+250"
+  },
+  {
+    "id": 252,
+    "country_id": 184,
+    "code": "+247"
+  },
+  {
+    "id": 253,
+    "country_id": 184,
+    "code": "+290"
+  },
+  {
+    "id": 254,
+    "country_id": 185,
+    "code": "+1869"
+  },
+  {
+    "id": 255,
+    "country_id": 186,
+    "code": "+1758"
+  },
+  {
+    "id": 256,
+    "country_id": 187,
+    "code": "+508"
+  },
+  {
+    "id": 257,
+    "country_id": 188,
+    "code": "+1784"
+  },
+  {
+    "id": 258,
+    "country_id": 189,
+    "code": "+590"
+  },
+  {
+    "id": 259,
+    "country_id": 190,
+    "code": "+590"
+  },
+  {
+    "id": 260,
+    "country_id": 191,
+    "code": "+685"
+  },
+  {
+    "id": 261,
+    "country_id": 192,
+    "code": "+378"
+  },
+  {
+    "id": 262,
+    "country_id": 193,
+    "code": "+239"
+  },
+  {
+    "id": 263,
+    "country_id": 194,
+    "code": "+966"
+  },
+  {
+    "id": 264,
+    "country_id": 195,
+    "code": "+221"
+  },
+  {
+    "id": 265,
+    "country_id": 196,
+    "code": "+381"
+  },
+  {
+    "id": 266,
+    "country_id": 197,
+    "code": "+248"
+  },
+  {
+    "id": 267,
+    "country_id": 198,
+    "code": "+232"
+  },
+  {
+    "id": 268,
+    "country_id": 199,
+    "code": "+65"
+  },
+  {
+    "id": 269,
+    "country_id": 200,
+    "code": "+421"
+  },
+  {
+    "id": 270,
+    "country_id": 201,
+    "code": "+386"
+  },
+  {
+    "id": 271,
+    "country_id": 202,
+    "code": "+677"
+  },
+  {
+    "id": 272,
+    "country_id": 203,
+    "code": "+252"
+  },
+  {
+    "id": 273,
+    "country_id": 204,
+    "code": "+27"
+  },
+  {
+    "id": 274,
+    "country_id": 205,
+    "code": "+500"
+  },
+  {
+    "id": 275,
+    "country_id": 206,
+    "code": "+211"
+  },
+  {
+    "id": 276,
+    "country_id": 207,
+    "code": "+34"
+  },
+  {
+    "id": 277,
+    "country_id": 208,
+    "code": "+94"
+  },
+  {
+    "id": 278,
+    "country_id": 209,
+    "code": "+249"
+  },
+  {
+    "id": 279,
+    "country_id": 210,
+    "code": "+597"
+  },
+  {
+    "id": 280,
+    "country_id": 211,
+    "code": "+4779"
+  },
+  {
+    "id": 281,
+    "country_id": 212,
+    "code": "+268"
+  },
+  {
+    "id": 282,
+    "country_id": 213,
+    "code": "+46"
+  },
+  {
+    "id": 283,
+    "country_id": 214,
+    "code": "+41"
+  },
+  {
+    "id": 284,
+    "country_id": 215,
+    "code": "+963"
+  },
+  {
+    "id": 285,
+    "country_id": 216,
+    "code": "+886"
+  },
+  {
+    "id": 286,
+    "country_id": 217,
+    "code": "+992"
+  },
+  {
+    "id": 287,
+    "country_id": 218,
+    "code": "+255"
+  },
+  {
+    "id": 288,
+    "country_id": 219,
+    "code": "+66"
+  },
+  {
+    "id": 289,
+    "country_id": 220,
+    "code": "+228"
+  },
+  {
+    "id": 290,
+    "country_id": 221,
+    "code": "+690"
+  },
+  {
+    "id": 291,
+    "country_id": 222,
+    "code": "+676"
+  },
+  {
+    "id": 292,
+    "country_id": 223,
+    "code": "+1868"
+  },
+  {
+    "id": 293,
+    "country_id": 224,
+    "code": "+216"
+  },
+  {
+    "id": 294,
+    "country_id": 225,
+    "code": "+90"
+  },
+  {
+    "id": 295,
+    "country_id": 226,
+    "code": "+993"
+  },
+  {
+    "id": 296,
+    "country_id": 227,
+    "code": "+1649"
+  },
+  {
+    "id": 297,
+    "country_id": 228,
+    "code": "+688"
+  },
+  {
+    "id": 298,
+    "country_id": 229,
+    "code": "+256"
+  },
+  {
+    "id": 299,
+    "country_id": 230,
+    "code": "+380"
+  },
+  {
+    "id": 300,
+    "country_id": 231,
+    "code": "+971"
+  },
+  {
+    "id": 301,
+    "country_id": 232,
+    "code": "+44"
+  },
+  {
+    "id": 302,
+    "country_id": 233,
+    "code": "+1201"
+  },
+  {
+    "id": 303,
+    "country_id": 233,
+    "code": "+1202"
+  },
+  {
+    "id": 304,
+    "country_id": 233,
+    "code": "+1203"
+  },
+  {
+    "id": 305,
+    "country_id": 233,
+    "code": "+1205"
+  },
+  {
+    "id": 306,
+    "country_id": 233,
+    "code": "+1206"
+  },
+  {
+    "id": 307,
+    "country_id": 233,
+    "code": "+1207"
+  },
+  {
+    "id": 308,
+    "country_id": 233,
+    "code": "+1208"
+  },
+  {
+    "id": 309,
+    "country_id": 233,
+    "code": "+1209"
+  },
+  {
+    "id": 310,
+    "country_id": 233,
+    "code": "+1210"
+  },
+  {
+    "id": 311,
+    "country_id": 233,
+    "code": "+1212"
+  },
+  {
+    "id": 312,
+    "country_id": 233,
+    "code": "+1213"
+  },
+  {
+    "id": 313,
+    "country_id": 233,
+    "code": "+1214"
+  },
+  {
+    "id": 314,
+    "country_id": 233,
+    "code": "+1215"
+  },
+  {
+    "id": 315,
+    "country_id": 233,
+    "code": "+1216"
+  },
+  {
+    "id": 316,
+    "country_id": 233,
+    "code": "+1217"
+  },
+  {
+    "id": 317,
+    "country_id": 233,
+    "code": "+1218"
+  },
+  {
+    "id": 318,
+    "country_id": 233,
+    "code": "+1219"
+  },
+  {
+    "id": 319,
+    "country_id": 233,
+    "code": "+1220"
+  },
+  {
+    "id": 320,
+    "country_id": 233,
+    "code": "+1223"
+  },
+  {
+    "id": 321,
+    "country_id": 233,
+    "code": "+1224"
+  },
+  {
+    "id": 322,
+    "country_id": 233,
+    "code": "+1225"
+  },
+  {
+    "id": 323,
+    "country_id": 233,
+    "code": "+1227"
+  },
+  {
+    "id": 324,
+    "country_id": 233,
+    "code": "+1228"
+  },
+  {
+    "id": 325,
+    "country_id": 233,
+    "code": "+1229"
+  },
+  {
+    "id": 326,
+    "country_id": 233,
+    "code": "+1231"
+  },
+  {
+    "id": 327,
+    "country_id": 233,
+    "code": "+1234"
+  },
+  {
+    "id": 328,
+    "country_id": 233,
+    "code": "+1239"
+  },
+  {
+    "id": 329,
+    "country_id": 233,
+    "code": "+1240"
+  },
+  {
+    "id": 330,
+    "country_id": 233,
+    "code": "+1248"
+  },
+  {
+    "id": 331,
+    "country_id": 233,
+    "code": "+1251"
+  },
+  {
+    "id": 332,
+    "country_id": 233,
+    "code": "+1252"
+  },
+  {
+    "id": 333,
+    "country_id": 233,
+    "code": "+1253"
+  },
+  {
+    "id": 334,
+    "country_id": 233,
+    "code": "+1254"
+  },
+  {
+    "id": 335,
+    "country_id": 233,
+    "code": "+1256"
+  },
+  {
+    "id": 336,
+    "country_id": 233,
+    "code": "+1260"
+  },
+  {
+    "id": 337,
+    "country_id": 233,
+    "code": "+1262"
+  },
+  {
+    "id": 338,
+    "country_id": 233,
+    "code": "+1267"
+  },
+  {
+    "id": 339,
+    "country_id": 233,
+    "code": "+1269"
+  },
+  {
+    "id": 340,
+    "country_id": 233,
+    "code": "+1270"
+  },
+  {
+    "id": 341,
+    "country_id": 233,
+    "code": "+1272"
+  },
+  {
+    "id": 342,
+    "country_id": 233,
+    "code": "+1274"
+  },
+  {
+    "id": 343,
+    "country_id": 233,
+    "code": "+1276"
+  },
+  {
+    "id": 344,
+    "country_id": 233,
+    "code": "+1279"
+  },
+  {
+    "id": 345,
+    "country_id": 233,
+    "code": "+1281"
+  },
+  {
+    "id": 346,
+    "country_id": 233,
+    "code": "+1283"
+  },
+  {
+    "id": 347,
+    "country_id": 233,
+    "code": "+1301"
+  },
+  {
+    "id": 348,
+    "country_id": 233,
+    "code": "+1302"
+  },
+  {
+    "id": 349,
+    "country_id": 233,
+    "code": "+1303"
+  },
+  {
+    "id": 350,
+    "country_id": 233,
+    "code": "+1304"
+  },
+  {
+    "id": 351,
+    "country_id": 233,
+    "code": "+1305"
+  },
+  {
+    "id": 352,
+    "country_id": 233,
+    "code": "+1307"
+  },
+  {
+    "id": 353,
+    "country_id": 233,
+    "code": "+1308"
+  },
+  {
+    "id": 354,
+    "country_id": 233,
+    "code": "+1309"
+  },
+  {
+    "id": 355,
+    "country_id": 233,
+    "code": "+1310"
+  },
+  {
+    "id": 356,
+    "country_id": 233,
+    "code": "+1312"
+  },
+  {
+    "id": 357,
+    "country_id": 233,
+    "code": "+1313"
+  },
+  {
+    "id": 358,
+    "country_id": 233,
+    "code": "+1314"
+  },
+  {
+    "id": 359,
+    "country_id": 233,
+    "code": "+1315"
+  },
+  {
+    "id": 360,
+    "country_id": 233,
+    "code": "+1316"
+  },
+  {
+    "id": 361,
+    "country_id": 233,
+    "code": "+1317"
+  },
+  {
+    "id": 362,
+    "country_id": 233,
+    "code": "+1318"
+  },
+  {
+    "id": 363,
+    "country_id": 233,
+    "code": "+1319"
+  },
+  {
+    "id": 364,
+    "country_id": 233,
+    "code": "+1320"
+  },
+  {
+    "id": 365,
+    "country_id": 233,
+    "code": "+1321"
+  },
+  {
+    "id": 366,
+    "country_id": 233,
+    "code": "+1323"
+  },
+  {
+    "id": 367,
+    "country_id": 233,
+    "code": "+1325"
+  },
+  {
+    "id": 368,
+    "country_id": 233,
+    "code": "+1326"
+  },
+  {
+    "id": 369,
+    "country_id": 233,
+    "code": "+1327"
+  },
+  {
+    "id": 370,
+    "country_id": 233,
+    "code": "+1330"
+  },
+  {
+    "id": 371,
+    "country_id": 233,
+    "code": "+1331"
+  },
+  {
+    "id": 372,
+    "country_id": 233,
+    "code": "+1332"
+  },
+  {
+    "id": 373,
+    "country_id": 233,
+    "code": "+1334"
+  },
+  {
+    "id": 374,
+    "country_id": 233,
+    "code": "+1336"
+  },
+  {
+    "id": 375,
+    "country_id": 233,
+    "code": "+1337"
+  },
+  {
+    "id": 376,
+    "country_id": 233,
+    "code": "+1339"
+  },
+  {
+    "id": 377,
+    "country_id": 233,
+    "code": "+1341"
+  },
+  {
+    "id": 378,
+    "country_id": 233,
+    "code": "+1346"
+  },
+  {
+    "id": 379,
+    "country_id": 233,
+    "code": "+1347"
+  },
+  {
+    "id": 380,
+    "country_id": 233,
+    "code": "+1351"
+  },
+  {
+    "id": 381,
+    "country_id": 233,
+    "code": "+1352"
+  },
+  {
+    "id": 382,
+    "country_id": 233,
+    "code": "+1360"
+  },
+  {
+    "id": 383,
+    "country_id": 233,
+    "code": "+1361"
+  },
+  {
+    "id": 384,
+    "country_id": 233,
+    "code": "+1364"
+  },
+  {
+    "id": 385,
+    "country_id": 233,
+    "code": "+1380"
+  },
+  {
+    "id": 386,
+    "country_id": 233,
+    "code": "+1385"
+  },
+  {
+    "id": 387,
+    "country_id": 233,
+    "code": "+1386"
+  },
+  {
+    "id": 388,
+    "country_id": 233,
+    "code": "+1401"
+  },
+  {
+    "id": 389,
+    "country_id": 233,
+    "code": "+1402"
+  },
+  {
+    "id": 390,
+    "country_id": 233,
+    "code": "+1404"
+  },
+  {
+    "id": 391,
+    "country_id": 233,
+    "code": "+1405"
+  },
+  {
+    "id": 392,
+    "country_id": 233,
+    "code": "+1406"
+  },
+  {
+    "id": 393,
+    "country_id": 233,
+    "code": "+1407"
+  },
+  {
+    "id": 394,
+    "country_id": 233,
+    "code": "+1408"
+  },
+  {
+    "id": 395,
+    "country_id": 233,
+    "code": "+1409"
+  },
+  {
+    "id": 396,
+    "country_id": 233,
+    "code": "+1410"
+  },
+  {
+    "id": 397,
+    "country_id": 233,
+    "code": "+1412"
+  },
+  {
+    "id": 398,
+    "country_id": 233,
+    "code": "+1413"
+  },
+  {
+    "id": 399,
+    "country_id": 233,
+    "code": "+1414"
+  },
+  {
+    "id": 400,
+    "country_id": 233,
+    "code": "+1415"
+  },
+  {
+    "id": 401,
+    "country_id": 233,
+    "code": "+1417"
+  },
+  {
+    "id": 402,
+    "country_id": 233,
+    "code": "+1419"
+  },
+  {
+    "id": 403,
+    "country_id": 233,
+    "code": "+1423"
+  },
+  {
+    "id": 404,
+    "country_id": 233,
+    "code": "+1424"
+  },
+  {
+    "id": 405,
+    "country_id": 233,
+    "code": "+1425"
+  },
+  {
+    "id": 406,
+    "country_id": 233,
+    "code": "+1430"
+  },
+  {
+    "id": 407,
+    "country_id": 233,
+    "code": "+1432"
+  },
+  {
+    "id": 408,
+    "country_id": 233,
+    "code": "+1434"
+  },
+  {
+    "id": 409,
+    "country_id": 233,
+    "code": "+1435"
+  },
+  {
+    "id": 410,
+    "country_id": 233,
+    "code": "+1440"
+  },
+  {
+    "id": 411,
+    "country_id": 233,
+    "code": "+1442"
+  },
+  {
+    "id": 412,
+    "country_id": 233,
+    "code": "+1443"
+  },
+  {
+    "id": 413,
+    "country_id": 233,
+    "code": "+1445"
+  },
+  {
+    "id": 414,
+    "country_id": 233,
+    "code": "+1447"
+  },
+  {
+    "id": 415,
+    "country_id": 233,
+    "code": "+1448"
+  },
+  {
+    "id": 416,
+    "country_id": 233,
+    "code": "+1458"
+  },
+  {
+    "id": 417,
+    "country_id": 233,
+    "code": "+1463"
+  },
+  {
+    "id": 418,
+    "country_id": 233,
+    "code": "+1464"
+  },
+  {
+    "id": 419,
+    "country_id": 233,
+    "code": "+1469"
+  },
+  {
+    "id": 420,
+    "country_id": 233,
+    "code": "+1470"
+  },
+  {
+    "id": 421,
+    "country_id": 233,
+    "code": "+1475"
+  },
+  {
+    "id": 422,
+    "country_id": 233,
+    "code": "+1478"
+  },
+  {
+    "id": 423,
+    "country_id": 233,
+    "code": "+1479"
+  },
+  {
+    "id": 424,
+    "country_id": 233,
+    "code": "+1480"
+  },
+  {
+    "id": 425,
+    "country_id": 233,
+    "code": "+1484"
+  },
+  {
+    "id": 426,
+    "country_id": 233,
+    "code": "+1500"
+  },
+  {
+    "id": 427,
+    "country_id": 233,
+    "code": "+1501"
+  },
+  {
+    "id": 428,
+    "country_id": 233,
+    "code": "+1502"
+  },
+  {
+    "id": 429,
+    "country_id": 233,
+    "code": "+1503"
+  },
+  {
+    "id": 430,
+    "country_id": 233,
+    "code": "+1504"
+  },
+  {
+    "id": 431,
+    "country_id": 233,
+    "code": "+1505"
+  },
+  {
+    "id": 432,
+    "country_id": 233,
+    "code": "+1507"
+  },
+  {
+    "id": 433,
+    "country_id": 233,
+    "code": "+1508"
+  },
+  {
+    "id": 434,
+    "country_id": 233,
+    "code": "+1509"
+  },
+  {
+    "id": 435,
+    "country_id": 233,
+    "code": "+1510"
+  },
+  {
+    "id": 436,
+    "country_id": 233,
+    "code": "+1512"
+  },
+  {
+    "id": 437,
+    "country_id": 233,
+    "code": "+1513"
+  },
+  {
+    "id": 438,
+    "country_id": 233,
+    "code": "+1515"
+  },
+  {
+    "id": 439,
+    "country_id": 233,
+    "code": "+1516"
+  },
+  {
+    "id": 440,
+    "country_id": 233,
+    "code": "+1517"
+  },
+  {
+    "id": 441,
+    "country_id": 233,
+    "code": "+1518"
+  },
+  {
+    "id": 442,
+    "country_id": 233,
+    "code": "+1520"
+  },
+  {
+    "id": 443,
+    "country_id": 233,
+    "code": "+1521"
+  },
+  {
+    "id": 444,
+    "country_id": 233,
+    "code": "+1522"
+  },
+  {
+    "id": 445,
+    "country_id": 233,
+    "code": "+1523"
+  },
+  {
+    "id": 446,
+    "country_id": 233,
+    "code": "+1524"
+  },
+  {
+    "id": 447,
+    "country_id": 233,
+    "code": "+1525"
+  },
+  {
+    "id": 448,
+    "country_id": 233,
+    "code": "+1526"
+  },
+  {
+    "id": 449,
+    "country_id": 233,
+    "code": "+1527"
+  },
+  {
+    "id": 450,
+    "country_id": 233,
+    "code": "+1528"
+  },
+  {
+    "id": 451,
+    "country_id": 233,
+    "code": "+1529"
+  },
+  {
+    "id": 452,
+    "country_id": 233,
+    "code": "+1530"
+  },
+  {
+    "id": 453,
+    "country_id": 233,
+    "code": "+1531"
+  },
+  {
+    "id": 454,
+    "country_id": 233,
+    "code": "+1532"
+  },
+  {
+    "id": 455,
+    "country_id": 233,
+    "code": "+1533"
+  },
+  {
+    "id": 456,
+    "country_id": 233,
+    "code": "+1534"
+  },
+  {
+    "id": 457,
+    "country_id": 233,
+    "code": "+1535"
+  },
+  {
+    "id": 458,
+    "country_id": 233,
+    "code": "+1538"
+  },
+  {
+    "id": 459,
+    "country_id": 233,
+    "code": "+1539"
+  },
+  {
+    "id": 460,
+    "country_id": 233,
+    "code": "+1540"
+  },
+  {
+    "id": 461,
+    "country_id": 233,
+    "code": "+1541"
+  },
+  {
+    "id": 462,
+    "country_id": 233,
+    "code": "+1542"
+  },
+  {
+    "id": 463,
+    "country_id": 233,
+    "code": "+1543"
+  },
+  {
+    "id": 464,
+    "country_id": 233,
+    "code": "+1544"
+  },
+  {
+    "id": 465,
+    "country_id": 233,
+    "code": "+1545"
+  },
+  {
+    "id": 466,
+    "country_id": 233,
+    "code": "+1546"
+  },
+  {
+    "id": 467,
+    "country_id": 233,
+    "code": "+1547"
+  },
+  {
+    "id": 468,
+    "country_id": 233,
+    "code": "+1549"
+  },
+  {
+    "id": 469,
+    "country_id": 233,
+    "code": "+1550"
+  },
+  {
+    "id": 470,
+    "country_id": 233,
+    "code": "+1551"
+  },
+  {
+    "id": 471,
+    "country_id": 233,
+    "code": "+1552"
+  },
+  {
+    "id": 472,
+    "country_id": 233,
+    "code": "+1553"
+  },
+  {
+    "id": 473,
+    "country_id": 233,
+    "code": "+1554"
+  },
+  {
+    "id": 474,
+    "country_id": 233,
+    "code": "+1556"
+  },
+  {
+    "id": 475,
+    "country_id": 233,
+    "code": "+1557"
+  },
+  {
+    "id": 476,
+    "country_id": 233,
+    "code": "+1558"
+  },
+  {
+    "id": 477,
+    "country_id": 233,
+    "code": "+1559"
+  },
+  {
+    "id": 478,
+    "country_id": 233,
+    "code": "+1561"
+  },
+  {
+    "id": 479,
+    "country_id": 233,
+    "code": "+1562"
+  },
+  {
+    "id": 480,
+    "country_id": 233,
+    "code": "+1563"
+  },
+  {
+    "id": 481,
+    "country_id": 233,
+    "code": "+1564"
+  },
+  {
+    "id": 482,
+    "country_id": 233,
+    "code": "+1566"
+  },
+  {
+    "id": 483,
+    "country_id": 233,
+    "code": "+1567"
+  },
+  {
+    "id": 484,
+    "country_id": 233,
+    "code": "+1569"
+  },
+  {
+    "id": 485,
+    "country_id": 233,
+    "code": "+1570"
+  },
+  {
+    "id": 486,
+    "country_id": 233,
+    "code": "+1571"
+  },
+  {
+    "id": 487,
+    "country_id": 233,
+    "code": "+1572"
+  },
+  {
+    "id": 488,
+    "country_id": 233,
+    "code": "+1573"
+  },
+  {
+    "id": 489,
+    "country_id": 233,
+    "code": "+1574"
+  },
+  {
+    "id": 490,
+    "country_id": 233,
+    "code": "+1575"
+  },
+  {
+    "id": 491,
+    "country_id": 233,
+    "code": "+1577"
+  },
+  {
+    "id": 492,
+    "country_id": 233,
+    "code": "+1578"
+  },
+  {
+    "id": 493,
+    "country_id": 233,
+    "code": "+1580"
+  },
+  {
+    "id": 494,
+    "country_id": 233,
+    "code": "+1582"
+  },
+  {
+    "id": 495,
+    "country_id": 233,
+    "code": "+1585"
+  },
+  {
+    "id": 496,
+    "country_id": 233,
+    "code": "+1586"
+  },
+  {
+    "id": 497,
+    "country_id": 233,
+    "code": "+1588"
+  },
+  {
+    "id": 498,
+    "country_id": 233,
+    "code": "+1589"
+  },
+  {
+    "id": 499,
+    "country_id": 233,
+    "code": "+1601"
+  },
+  {
+    "id": 500,
+    "country_id": 233,
+    "code": "+1602"
+  },
+  {
+    "id": 501,
+    "country_id": 233,
+    "code": "+1603"
+  },
+  {
+    "id": 502,
+    "country_id": 233,
+    "code": "+1605"
+  },
+  {
+    "id": 503,
+    "country_id": 233,
+    "code": "+1606"
+  },
+  {
+    "id": 504,
+    "country_id": 233,
+    "code": "+1607"
+  },
+  {
+    "id": 505,
+    "country_id": 233,
+    "code": "+1608"
+  },
+  {
+    "id": 506,
+    "country_id": 233,
+    "code": "+1609"
+  },
+  {
+    "id": 507,
+    "country_id": 233,
+    "code": "+1610"
+  },
+  {
+    "id": 508,
+    "country_id": 233,
+    "code": "+1612"
+  },
+  {
+    "id": 509,
+    "country_id": 233,
+    "code": "+1614"
+  },
+  {
+    "id": 510,
+    "country_id": 233,
+    "code": "+1615"
+  },
+  {
+    "id": 511,
+    "country_id": 233,
+    "code": "+1616"
+  },
+  {
+    "id": 512,
+    "country_id": 233,
+    "code": "+1617"
+  },
+  {
+    "id": 513,
+    "country_id": 233,
+    "code": "+1618"
+  },
+  {
+    "id": 514,
+    "country_id": 233,
+    "code": "+1619"
+  },
+  {
+    "id": 515,
+    "country_id": 233,
+    "code": "+1620"
+  },
+  {
+    "id": 516,
+    "country_id": 233,
+    "code": "+1623"
+  },
+  {
+    "id": 517,
+    "country_id": 233,
+    "code": "+1626"
+  },
+  {
+    "id": 518,
+    "country_id": 233,
+    "code": "+1628"
+  },
+  {
+    "id": 519,
+    "country_id": 233,
+    "code": "+1629"
+  },
+  {
+    "id": 520,
+    "country_id": 233,
+    "code": "+1630"
+  },
+  {
+    "id": 521,
+    "country_id": 233,
+    "code": "+1631"
+  },
+  {
+    "id": 522,
+    "country_id": 233,
+    "code": "+1636"
+  },
+  {
+    "id": 523,
+    "country_id": 233,
+    "code": "+1640"
+  },
+  {
+    "id": 524,
+    "country_id": 233,
+    "code": "+1641"
+  },
+  {
+    "id": 525,
+    "country_id": 233,
+    "code": "+1646"
+  },
+  {
+    "id": 526,
+    "country_id": 233,
+    "code": "+1650"
+  },
+  {
+    "id": 527,
+    "country_id": 233,
+    "code": "+1651"
+  },
+  {
+    "id": 528,
+    "country_id": 233,
+    "code": "+1656"
+  },
+  {
+    "id": 529,
+    "country_id": 233,
+    "code": "+1657"
+  },
+  {
+    "id": 530,
+    "country_id": 233,
+    "code": "+1659"
+  },
+  {
+    "id": 531,
+    "country_id": 233,
+    "code": "+1660"
+  },
+  {
+    "id": 532,
+    "country_id": 233,
+    "code": "+1661"
+  },
+  {
+    "id": 533,
+    "country_id": 233,
+    "code": "+1662"
+  },
+  {
+    "id": 534,
+    "country_id": 233,
+    "code": "+1667"
+  },
+  {
+    "id": 535,
+    "country_id": 233,
+    "code": "+1669"
+  },
+  {
+    "id": 536,
+    "country_id": 233,
+    "code": "+1678"
+  },
+  {
+    "id": 537,
+    "country_id": 233,
+    "code": "+1679"
+  },
+  {
+    "id": 538,
+    "country_id": 233,
+    "code": "+1680"
+  },
+  {
+    "id": 539,
+    "country_id": 233,
+    "code": "+1681"
+  },
+  {
+    "id": 540,
+    "country_id": 233,
+    "code": "+1682"
+  },
+  {
+    "id": 541,
+    "country_id": 233,
+    "code": "+1689"
+  },
+  {
+    "id": 542,
+    "country_id": 233,
+    "code": "+1700"
+  },
+  {
+    "id": 543,
+    "country_id": 233,
+    "code": "+1701"
+  },
+  {
+    "id": 544,
+    "country_id": 233,
+    "code": "+1702"
+  },
+  {
+    "id": 545,
+    "country_id": 233,
+    "code": "+1703"
+  },
+  {
+    "id": 546,
+    "country_id": 233,
+    "code": "+1704"
+  },
+  {
+    "id": 547,
+    "country_id": 233,
+    "code": "+1706"
+  },
+  {
+    "id": 548,
+    "country_id": 233,
+    "code": "+1707"
+  },
+  {
+    "id": 549,
+    "country_id": 233,
+    "code": "+1708"
+  },
+  {
+    "id": 550,
+    "country_id": 233,
+    "code": "+1710"
+  },
+  {
+    "id": 551,
+    "country_id": 233,
+    "code": "+1712"
+  },
+  {
+    "id": 552,
+    "country_id": 233,
+    "code": "+1713"
+  },
+  {
+    "id": 553,
+    "country_id": 233,
+    "code": "+1714"
+  },
+  {
+    "id": 554,
+    "country_id": 233,
+    "code": "+1715"
+  },
+  {
+    "id": 555,
+    "country_id": 233,
+    "code": "+1716"
+  },
+  {
+    "id": 556,
+    "country_id": 233,
+    "code": "+1717"
+  },
+  {
+    "id": 557,
+    "country_id": 233,
+    "code": "+1718"
+  },
+  {
+    "id": 558,
+    "country_id": 233,
+    "code": "+1719"
+  },
+  {
+    "id": 559,
+    "country_id": 233,
+    "code": "+1720"
+  },
+  {
+    "id": 560,
+    "country_id": 233,
+    "code": "+1724"
+  },
+  {
+    "id": 561,
+    "country_id": 233,
+    "code": "+1725"
+  },
+  {
+    "id": 562,
+    "country_id": 233,
+    "code": "+1726"
+  },
+  {
+    "id": 563,
+    "country_id": 233,
+    "code": "+1727"
+  },
+  {
+    "id": 564,
+    "country_id": 233,
+    "code": "+1730"
+  },
+  {
+    "id": 565,
+    "country_id": 233,
+    "code": "+1731"
+  },
+  {
+    "id": 566,
+    "country_id": 233,
+    "code": "+1732"
+  },
+  {
+    "id": 567,
+    "country_id": 233,
+    "code": "+1734"
+  },
+  {
+    "id": 568,
+    "country_id": 233,
+    "code": "+1737"
+  },
+  {
+    "id": 569,
+    "country_id": 233,
+    "code": "+1740"
+  },
+  {
+    "id": 570,
+    "country_id": 233,
+    "code": "+1743"
+  },
+  {
+    "id": 571,
+    "country_id": 233,
+    "code": "+1747"
+  },
+  {
+    "id": 572,
+    "country_id": 233,
+    "code": "+1754"
+  },
+  {
+    "id": 573,
+    "country_id": 233,
+    "code": "+1757"
+  },
+  {
+    "id": 574,
+    "country_id": 233,
+    "code": "+1760"
+  },
+  {
+    "id": 575,
+    "country_id": 233,
+    "code": "+1762"
+  },
+  {
+    "id": 576,
+    "country_id": 233,
+    "code": "+1763"
+  },
+  {
+    "id": 577,
+    "country_id": 233,
+    "code": "+1765"
+  },
+  {
+    "id": 578,
+    "country_id": 233,
+    "code": "+1769"
+  },
+  {
+    "id": 579,
+    "country_id": 233,
+    "code": "+1770"
+  },
+  {
+    "id": 580,
+    "country_id": 233,
+    "code": "+1771"
+  },
+  {
+    "id": 581,
+    "country_id": 233,
+    "code": "+1772"
+  },
+  {
+    "id": 582,
+    "country_id": 233,
+    "code": "+1773"
+  },
+  {
+    "id": 583,
+    "country_id": 233,
+    "code": "+1774"
+  },
+  {
+    "id": 584,
+    "country_id": 233,
+    "code": "+1775"
+  },
+  {
+    "id": 585,
+    "country_id": 233,
+    "code": "+1779"
+  },
+  {
+    "id": 586,
+    "country_id": 233,
+    "code": "+1781"
+  },
+  {
+    "id": 587,
+    "country_id": 233,
+    "code": "+1785"
+  },
+  {
+    "id": 588,
+    "country_id": 233,
+    "code": "+1786"
+  },
+  {
+    "id": 589,
+    "country_id": 233,
+    "code": "+1801"
+  },
+  {
+    "id": 590,
+    "country_id": 233,
+    "code": "+1802"
+  },
+  {
+    "id": 591,
+    "country_id": 233,
+    "code": "+1803"
+  },
+  {
+    "id": 592,
+    "country_id": 233,
+    "code": "+1804"
+  },
+  {
+    "id": 593,
+    "country_id": 233,
+    "code": "+1805"
+  },
+  {
+    "id": 594,
+    "country_id": 233,
+    "code": "+1806"
+  },
+  {
+    "id": 595,
+    "country_id": 233,
+    "code": "+1808"
+  },
+  {
+    "id": 596,
+    "country_id": 233,
+    "code": "+1810"
+  },
+  {
+    "id": 597,
+    "country_id": 233,
+    "code": "+1812"
+  },
+  {
+    "id": 598,
+    "country_id": 233,
+    "code": "+1813"
+  },
+  {
+    "id": 599,
+    "country_id": 233,
+    "code": "+1814"
+  },
+  {
+    "id": 600,
+    "country_id": 233,
+    "code": "+1815"
+  },
+  {
+    "id": 601,
+    "country_id": 233,
+    "code": "+1816"
+  },
+  {
+    "id": 602,
+    "country_id": 233,
+    "code": "+1817"
+  },
+  {
+    "id": 603,
+    "country_id": 233,
+    "code": "+1818"
+  },
+  {
+    "id": 604,
+    "country_id": 233,
+    "code": "+1820"
+  },
+  {
+    "id": 605,
+    "country_id": 233,
+    "code": "+1826"
+  },
+  {
+    "id": 606,
+    "country_id": 233,
+    "code": "+1828"
+  },
+  {
+    "id": 607,
+    "country_id": 233,
+    "code": "+1830"
+  },
+  {
+    "id": 608,
+    "country_id": 233,
+    "code": "+1831"
+  },
+  {
+    "id": 609,
+    "country_id": 233,
+    "code": "+1832"
+  },
+  {
+    "id": 610,
+    "country_id": 233,
+    "code": "+1838"
+  },
+  {
+    "id": 611,
+    "country_id": 233,
+    "code": "+1839"
+  },
+  {
+    "id": 612,
+    "country_id": 233,
+    "code": "+1840"
+  },
+  {
+    "id": 613,
+    "country_id": 233,
+    "code": "+1843"
+  },
+  {
+    "id": 614,
+    "country_id": 233,
+    "code": "+1845"
+  },
+  {
+    "id": 615,
+    "country_id": 233,
+    "code": "+1847"
+  },
+  {
+    "id": 616,
+    "country_id": 233,
+    "code": "+1848"
+  },
+  {
+    "id": 617,
+    "country_id": 233,
+    "code": "+1850"
+  },
+  {
+    "id": 618,
+    "country_id": 233,
+    "code": "+1854"
+  },
+  {
+    "id": 619,
+    "country_id": 233,
+    "code": "+1856"
+  },
+  {
+    "id": 620,
+    "country_id": 233,
+    "code": "+1857"
+  },
+  {
+    "id": 621,
+    "country_id": 233,
+    "code": "+1858"
+  },
+  {
+    "id": 622,
+    "country_id": 233,
+    "code": "+1859"
+  },
+  {
+    "id": 623,
+    "country_id": 233,
+    "code": "+1860"
+  },
+  {
+    "id": 624,
+    "country_id": 233,
+    "code": "+1862"
+  },
+  {
+    "id": 625,
+    "country_id": 233,
+    "code": "+1863"
+  },
+  {
+    "id": 626,
+    "country_id": 233,
+    "code": "+1864"
+  },
+  {
+    "id": 627,
+    "country_id": 233,
+    "code": "+1865"
+  },
+  {
+    "id": 628,
+    "country_id": 233,
+    "code": "+1870"
+  },
+  {
+    "id": 629,
+    "country_id": 233,
+    "code": "+1872"
+  },
+  {
+    "id": 630,
+    "country_id": 233,
+    "code": "+1878"
+  },
+  {
+    "id": 631,
+    "country_id": 233,
+    "code": "+1901"
+  },
+  {
+    "id": 632,
+    "country_id": 233,
+    "code": "+1903"
+  },
+  {
+    "id": 633,
+    "country_id": 233,
+    "code": "+1904"
+  },
+  {
+    "id": 634,
+    "country_id": 233,
+    "code": "+1906"
+  },
+  {
+    "id": 635,
+    "country_id": 233,
+    "code": "+1907"
+  },
+  {
+    "id": 636,
+    "country_id": 233,
+    "code": "+1908"
+  },
+  {
+    "id": 637,
+    "country_id": 233,
+    "code": "+1909"
+  },
+  {
+    "id": 638,
+    "country_id": 233,
+    "code": "+1910"
+  },
+  {
+    "id": 639,
+    "country_id": 233,
+    "code": "+1912"
+  },
+  {
+    "id": 640,
+    "country_id": 233,
+    "code": "+1913"
+  },
+  {
+    "id": 641,
+    "country_id": 233,
+    "code": "+1914"
+  },
+  {
+    "id": 642,
+    "country_id": 233,
+    "code": "+1915"
+  },
+  {
+    "id": 643,
+    "country_id": 233,
+    "code": "+1916"
+  },
+  {
+    "id": 644,
+    "country_id": 233,
+    "code": "+1917"
+  },
+  {
+    "id": 645,
+    "country_id": 233,
+    "code": "+1918"
+  },
+  {
+    "id": 646,
+    "country_id": 233,
+    "code": "+1919"
+  },
+  {
+    "id": 647,
+    "country_id": 233,
+    "code": "+1920"
+  },
+  {
+    "id": 648,
+    "country_id": 233,
+    "code": "+1925"
+  },
+  {
+    "id": 649,
+    "country_id": 233,
+    "code": "+1928"
+  },
+  {
+    "id": 650,
+    "country_id": 233,
+    "code": "+1929"
+  },
+  {
+    "id": 651,
+    "country_id": 233,
+    "code": "+1930"
+  },
+  {
+    "id": 652,
+    "country_id": 233,
+    "code": "+1931"
+  },
+  {
+    "id": 653,
+    "country_id": 233,
+    "code": "+1934"
+  },
+  {
+    "id": 654,
+    "country_id": 233,
+    "code": "+1936"
+  },
+  {
+    "id": 655,
+    "country_id": 233,
+    "code": "+1937"
+  },
+  {
+    "id": 656,
+    "country_id": 233,
+    "code": "+1938"
+  },
+  {
+    "id": 657,
+    "country_id": 233,
+    "code": "+1940"
+  },
+  {
+    "id": 658,
+    "country_id": 233,
+    "code": "+1941"
+  },
+  {
+    "id": 659,
+    "country_id": 233,
+    "code": "+1943"
+  },
+  {
+    "id": 660,
+    "country_id": 233,
+    "code": "+1945"
+  },
+  {
+    "id": 661,
+    "country_id": 233,
+    "code": "+1947"
+  },
+  {
+    "id": 662,
+    "country_id": 233,
+    "code": "+1948"
+  },
+  {
+    "id": 663,
+    "country_id": 233,
+    "code": "+1949"
+  },
+  {
+    "id": 664,
+    "country_id": 233,
+    "code": "+1951"
+  },
+  {
+    "id": 665,
+    "country_id": 233,
+    "code": "+1952"
+  },
+  {
+    "id": 666,
+    "country_id": 233,
+    "code": "+1954"
+  },
+  {
+    "id": 667,
+    "country_id": 233,
+    "code": "+1956"
+  },
+  {
+    "id": 668,
+    "country_id": 233,
+    "code": "+1959"
+  },
+  {
+    "id": 669,
+    "country_id": 233,
+    "code": "+1970"
+  },
+  {
+    "id": 670,
+    "country_id": 233,
+    "code": "+1971"
+  },
+  {
+    "id": 671,
+    "country_id": 233,
+    "code": "+1972"
+  },
+  {
+    "id": 672,
+    "country_id": 233,
+    "code": "+1973"
+  },
+  {
+    "id": 673,
+    "country_id": 233,
+    "code": "+1975"
+  },
+  {
+    "id": 674,
+    "country_id": 233,
+    "code": "+1978"
+  },
+  {
+    "id": 675,
+    "country_id": 233,
+    "code": "+1979"
+  },
+  {
+    "id": 676,
+    "country_id": 233,
+    "code": "+1980"
+  },
+  {
+    "id": 677,
+    "country_id": 233,
+    "code": "+1983"
+  },
+  {
+    "id": 678,
+    "country_id": 233,
+    "code": "+1984"
+  },
+  {
+    "id": 679,
+    "country_id": 233,
+    "code": "+1985"
+  },
+  {
+    "id": 680,
+    "country_id": 233,
+    "code": "+1986"
+  },
+  {
+    "id": 681,
+    "country_id": 233,
+    "code": "+1989"
+  },
+  {
+    "id": 682,
+    "country_id": 234,
+    "code": "+268"
+  },
+  {
+    "id": 683,
+    "country_id": 235,
+    "code": "+598"
+  },
+  {
+    "id": 684,
+    "country_id": 236,
+    "code": "+998"
+  },
+  {
+    "id": 685,
+    "country_id": 237,
+    "code": "+678"
+  },
+  {
+    "id": 686,
+    "country_id": 238,
+    "code": "+379"
+  },
+  {
+    "id": 687,
+    "country_id": 238,
+    "code": "+3906698"
+  },
+  {
+    "id": 688,
+    "country_id": 239,
+    "code": "+58"
+  },
+  {
+    "id": 689,
+    "country_id": 240,
+    "code": "+84"
+  },
+  {
+    "id": 690,
+    "country_id": 241,
+    "code": "+1284"
+  },
+  {
+    "id": 691,
+    "country_id": 242,
+    "code": "+1340"
+  },
+  {
+    "id": 692,
+    "country_id": 243,
+    "code": "+681"
+  },
+  {
+    "id": 693,
+    "country_id": 244,
+    "code": "+2125288"
+  },
+  {
+    "id": 694,
+    "country_id": 244,
+    "code": "+2125289"
+  },
+  {
+    "id": 695,
+    "country_id": 245,
+    "code": "+967"
+  },
+  {
+    "id": 696,
+    "country_id": 246,
+    "code": "+260"
+  },
+  {
+    "id": 697,
+    "country_id": 247,
+    "code": "+263"
+  },
+  {
+    "id": 698,
+    "country_id": 248,
+    "code": "+383"
+  },
+  {
+    "id": 699,
+    "country_id": 249,
+    "code": "+599"
+  },
+  {
+    "id": 700,
+    "country_id": 250,
+    "code": "+1721"
+  },
+  {
+    "id": 701,
+    "country_id": 10091,
+    "code": "+44"
+  }
+]

@@ -1,0 +1,14 @@
+[
+  {
+    "timezone_id": 396,
+    "is_primary": true
+  },
+  {
+    "timezone_id": 405,
+    "is_primary": false
+  },
+  {
+    "timezone_id": 423,
+    "is_primary": false
+  }
+]

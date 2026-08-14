@@ -1,0 +1,10 @@
+[
+  {
+    "currency_id": 49,
+    "is_primary": true
+  },
+  {
+    "currency_id": 128,
+    "is_primary": false
+  }
+]

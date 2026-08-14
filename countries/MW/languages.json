@@ -1,0 +1,12 @@
+[
+  {
+    "language_id": 21,
+    "is_official": true,
+    "is_primary": true
+  },
+  {
+    "language_id": 32,
+    "is_official": true,
+    "is_primary": false
+  }
+]

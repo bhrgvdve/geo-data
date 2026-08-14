@@ -1,0 +1,14 @@
+[
+  {
+    "tld_id": 196,
+    "is_primary": true
+  },
+  {
+    "tld_id": 197,
+    "is_primary": false
+  },
+  {
+    "tld_id": 198,
+    "is_primary": false
+  }
+]

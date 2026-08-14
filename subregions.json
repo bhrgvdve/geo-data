@@ -1,0 +1,245 @@
+[
+  {
+    "id": 1,
+    "continent_id": 3,
+    "subcontinent_id": 1,
+    "region_id": 1,
+    "name": "Southern Asia",
+    "code": "SA",
+    "slug": "southern-asia"
+  },
+  {
+    "id": 2,
+    "continent_id": 4,
+    "subcontinent_id": 2,
+    "region_id": 2,
+    "name": "Northern Europe",
+    "code": "NE",
+    "slug": "northern-europe"
+  },
+  {
+    "id": 3,
+    "continent_id": 4,
+    "subcontinent_id": 2,
+    "region_id": 3,
+    "name": "Southeast Europe",
+    "code": "SE",
+    "slug": "southeast-europe"
+  },
+  {
+    "id": 4,
+    "continent_id": 1,
+    "subcontinent_id": 3,
+    "region_id": 4,
+    "name": "Northern Africa",
+    "code": "NA",
+    "slug": "northern-africa"
+  },
+  {
+    "id": 5,
+    "continent_id": 6,
+    "subcontinent_id": 4,
+    "region_id": 5,
+    "name": "Polynesia",
+    "code": "P",
+    "slug": "polynesia"
+  },
+  {
+    "id": 6,
+    "continent_id": 4,
+    "subcontinent_id": 2,
+    "region_id": 6,
+    "name": "Southern Europe",
+    "code": "SE",
+    "slug": "southern-europe"
+  },
+  {
+    "id": 7,
+    "continent_id": 1,
+    "subcontinent_id": 3,
+    "region_id": 7,
+    "name": "Middle Africa",
+    "code": "MA",
+    "slug": "middle-africa"
+  },
+  {
+    "id": 8,
+    "continent_id": 5,
+    "subcontinent_id": 5,
+    "region_id": 8,
+    "name": "Caribbean",
+    "code": "C",
+    "slug": "caribbean"
+  },
+  {
+    "id": 9,
+    "continent_id": 2,
+    "subcontinent_id": 6,
+    "region_id": 9,
+    "name": "Antarctic",
+    "code": "A",
+    "slug": "antarctic"
+  },
+  {
+    "id": 10,
+    "continent_id": 7,
+    "subcontinent_id": 7,
+    "region_id": 10,
+    "name": "South America",
+    "code": "SA",
+    "slug": "south-america"
+  },
+  {
+    "id": 11,
+    "continent_id": 3,
+    "subcontinent_id": 1,
+    "region_id": 11,
+    "name": "Western Asia",
+    "code": "WA",
+    "slug": "western-asia"
+  },
+  {
+    "id": 12,
+    "continent_id": 6,
+    "subcontinent_id": 4,
+    "region_id": 12,
+    "name": "Australia and New Zealand",
+    "code": "AANZ",
+    "slug": "australia-and-new-zealand"
+  },
+  {
+    "id": 13,
+    "continent_id": 4,
+    "subcontinent_id": 2,
+    "region_id": 13,
+    "name": "Central Europe",
+    "code": "CE",
+    "slug": "central-europe"
+  },
+  {
+    "id": 14,
+    "continent_id": 4,
+    "subcontinent_id": 2,
+    "region_id": 14,
+    "name": "Eastern Europe",
+    "code": "EE",
+    "slug": "eastern-europe"
+  },
+  {
+    "id": 15,
+    "continent_id": 4,
+    "subcontinent_id": 2,
+    "region_id": 15,
+    "name": "Western Europe",
+    "code": "WE",
+    "slug": "western-europe"
+  },
+  {
+    "id": 16,
+    "continent_id": 5,
+    "subcontinent_id": 5,
+    "region_id": 16,
+    "name": "Central America",
+    "code": "CA",
+    "slug": "central-america"
+  },
+  {
+    "id": 17,
+    "continent_id": 1,
+    "subcontinent_id": 3,
+    "region_id": 17,
+    "name": "Western Africa",
+    "code": "WA",
+    "slug": "western-africa"
+  },
+  {
+    "id": 18,
+    "continent_id": 5,
+    "subcontinent_id": 5,
+    "region_id": 18,
+    "name": "North America",
+    "code": "NA",
+    "slug": "north-america"
+  },
+  {
+    "id": 19,
+    "continent_id": 1,
+    "subcontinent_id": 3,
+    "region_id": 19,
+    "name": "Southern Africa",
+    "code": "SA",
+    "slug": "southern-africa"
+  },
+  {
+    "id": 20,
+    "continent_id": 1,
+    "subcontinent_id": 3,
+    "region_id": 20,
+    "name": "Eastern Africa",
+    "code": "EA",
+    "slug": "eastern-africa"
+  },
+  {
+    "id": 21,
+    "continent_id": 3,
+    "subcontinent_id": 1,
+    "region_id": 21,
+    "name": "South-Eastern Asia",
+    "code": "SEA",
+    "slug": "south-eastern-asia"
+  },
+  {
+    "id": 22,
+    "continent_id": 3,
+    "subcontinent_id": 1,
+    "region_id": 22,
+    "name": "Eastern Asia",
+    "code": "EA",
+    "slug": "eastern-asia"
+  },
+  {
+    "id": 23,
+    "continent_id": 6,
+    "subcontinent_id": 4,
+    "region_id": 23,
+    "name": "Melanesia",
+    "code": "M",
+    "slug": "melanesia"
+  },
+  {
+    "id": 24,
+    "continent_id": 1,
+    "subcontinent_id": 8,
+    "region_id": 24,
+    "name": "Southern Africa",
+    "code": "SA",
+    "slug": "southern-africa"
+  },
+  {
+    "id": 25,
+    "continent_id": 6,
+    "subcontinent_id": 4,
+    "region_id": 25,
+    "name": "Micronesia",
+    "code": "M",
+    "slug": "micronesia"
+  },
+  {
+    "id": 26,
+    "continent_id": 3,
+    "subcontinent_id": 1,
+    "region_id": 26,
+    "name": "Central Asia",
+    "code": "CA",
+    "slug": "central-asia"
+  },
+  {
+    "id": 27,
+    "continent_id": 7,
+    "subcontinent_id": 9,
+    "region_id": 27,
+    "name": "South America",
+    "code": "SA",
+    "slug": "south-america"
+  }
+]

@@ -1,0 +1,65 @@
+[
+  {
+    "id": 1,
+    "continent_id": 3,
+    "name": "Asia",
+    "code": "A",
+    "slug": "asia"
+  },
+  {
+    "id": 2,
+    "continent_id": 4,
+    "name": "Europe",
+    "code": "E",
+    "slug": "europe"
+  },
+  {
+    "id": 3,
+    "continent_id": 1,
+    "name": "Africa",
+    "code": "A",
+    "slug": "africa"
+  },
+  {
+    "id": 4,
+    "continent_id": 6,
+    "name": "Oceania",
+    "code": "O",
+    "slug": "oceania"
+  },
+  {
+    "id": 5,
+    "continent_id": 5,
+    "name": "Americas",
+    "code": "A",
+    "slug": "americas"
+  },
+  {
+    "id": 6,
+    "continent_id": 2,
+    "name": "Antarctic",
+    "code": "A",
+    "slug": "antarctic"
+  },
+  {
+    "id": 7,
+    "continent_id": 7,
+    "name": "Americas",
+    "code": "A",
+    "slug": "americas"
+  },
+  {
+    "id": 8,
+    "continent_id": 1,
+    "name": "Antarctic",
+    "code": "A",
+    "slug": "antarctic"
+  },
+  {
+    "id": 9,
+    "continent_id": 7,
+    "name": "Antarctic",
+    "code": "A",
+    "slug": "antarctic"
+  }
+]

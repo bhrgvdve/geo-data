@@ -1,0 +1,1090 @@
+[
+  {
+    "id": 1001,
+    "continent_id": 3,
+    "country_id": 91,
+    "state_id": 102,
+    "name": "Ellore",
+    "code": null
+  },
+  {
+    "id": 1002,
+    "continent_id": 3,
+    "country_id": 91,
+    "state_id": 102,
+    "name": "Visakhapatnam",
+    "code": null
+  },
+  {
+    "id": 1003,
+    "continent_id": 3,
+    "country_id": 91,
+    "state_id": 102,
+    "name": "Vizianagaram",
+    "code": null
+  },
+  {
+    "id": 1004,
+    "continent_id": 3,
+    "country_id": 91,
+    "state_id": 103,
+    "name": "Along",
+    "code": null
+  },
+  {
+    "id": 1005,
+    "continent_id": 3,
+    "country_id": 91,
+    "state_id": 103,
+    "name": "Anjaw",
+    "code": null
+  },
+  {
+    "id": 1006,
+    "continent_id": 3,
+    "country_id": 91,
+    "state_id": 103,
+    "name": "Basar",
+    "code": null
+  },
+  {
+    "id": 1007,
+    "continent_id": 3,
+    "country_id": 91,
+    "state_id": 103,
+    "name": "Lohit",
+    "code": null
+  },
+  {
+    "id": 1008,
+    "continent_id": 3,
+    "country_id": 91,
+    "state_id": 104,
+    "name": "Dima Hasao",
+    "code": null
+  },
+  {
+    "id": 1009,
+    "continent_id": 3,
+    "country_id": 91,
+    "state_id": 104,
+    "name": "Hojai",
+    "code": null
+  },
+  {
+    "id": 1010,
+    "continent_id": 3,
+    "country_id": 91,
+    "state_id": 104,
+    "name": "Morigaon",
+    "code": null
+  },
+  {
+    "id": 1011,
+    "continent_id": 3,
+    "country_id": 91,
+    "state_id": 105,
+    "name": "Begusarai",
+    "code": null
+  },
+  {
+    "id": 1012,
+    "continent_id": 3,
+    "country_id": 91,
+    "state_id": 105,
+    "name": "Kaimur",
+    "code": null
+  },
+  {
+    "id": 1013,
+    "continent_id": 3,
+    "country_id": 91,
+    "state_id": 107,
+    "name": "Ambikapur",
+    "code": null
+  },
+  {
+    "id": 1014,
+    "continent_id": 3,
+    "country_id": 91,
+    "state_id": 107,
+    "name": "Balod",
+    "code": null
+  },
+  {
+    "id": 1015,
+    "continent_id": 3,
+    "country_id": 91,
+    "state_id": 107,
+    "name": "Baloda Bazar",
+    "code": null
+  },
+  {
+    "id": 1016,
+    "continent_id": 3,
+    "country_id": 91,
+    "state_id": 107,
+    "name": "Bemetara",
+    "code": null
+  },
+  {
+    "id": 1017,
+    "continent_id": 3,
+    "country_id": 91,
+    "state_id": 107,
+    "name": "Gariaband",
+    "code": null
+  },
+  {
+    "id": 1018,
+    "continent_id": 3,
+    "country_id": 91,
+    "state_id": 107,
+    "name": "Kawardha",
+    "code": null
+  },
+  {
+    "id": 1019,
+    "continent_id": 3,
+    "country_id": 91,
+    "state_id": 107,
+    "name": "Kondagaon",
+    "code": null
+  },
+  {
+    "id": 1020,
+    "continent_id": 3,
+    "country_id": 91,
+    "state_id": 107,
+    "name": "Mungeli",
+    "code": null
+  },
+  {
+    "id": 1021,
+    "continent_id": 3,
+    "country_id": 91,
+    "state_id": 108,
+    "name": "Silvassa",
+    "code": null
+  },
+  {
+    "id": 1022,
+    "continent_id": 3,
+    "country_id": 91,
+    "state_id": 109,
+    "name": "Alipur",
+    "code": null
+  },
+  {
+    "id": 1023,
+    "continent_id": 3,
+    "country_id": 91,
+    "state_id": 111,
+    "name": "Amreli",
+    "code": null
+  },
+  {
+    "id": 1024,
+    "continent_id": 3,
+    "country_id": 91,
+    "state_id": 111,
+    "name": "Bhojpur Dharampur",
+    "code": null
+  },
+  {
+    "id": 1025,
+    "continent_id": 3,
+    "country_id": 91,
+    "state_id": 111,
+    "name": "Bhuj",
+    "code": null
+  },
+  {
+    "id": 1026,
+    "continent_id": 3,
+    "country_id": 91,
+    "state_id": 111,
+    "name": "Botad",
+    "code": null
+  },
+  {
+    "id": 1027,
+    "continent_id": 3,
+    "country_id": 91,
+    "state_id": 111,
+    "name": "Chhota Udepur",
+    "code": null
+  },
+  {
+    "id": 1028,
+    "continent_id": 3,
+    "country_id": 91,
+    "state_id": 111,
+    "name": "Himatnagar",
+    "code": null
+  },
+  {
+    "id": 1029,
+    "continent_id": 3,
+    "country_id": 91,
+    "state_id": 111,
+    "name": "Khambhalia",
+    "code": null
+  },
+  {
+    "id": 1030,
+    "continent_id": 3,
+    "country_id": 91,
+    "state_id": 111,
+    "name": "Kutch",
+    "code": null
+  },
+  {
+    "id": 1031,
+    "continent_id": 3,
+    "country_id": 91,
+    "state_id": 111,
+    "name": "Lunavada",
+    "code": null
+  },
+  {
+    "id": 1032,
+    "continent_id": 3,
+    "country_id": 91,
+    "state_id": 111,
+    "name": "Modasa",
+    "code": null
+  },
+  {
+    "id": 1033,
+    "continent_id": 3,
+    "country_id": 91,
+    "state_id": 111,
+    "name": "Morbi",
+    "code": null
+  },
+  {
+    "id": 1034,
+    "continent_id": 3,
+    "country_id": 91,
+    "state_id": 111,
+    "name": "Navsari",
+    "code": null
+  },
+  {
+    "id": 1035,
+    "continent_id": 3,
+    "country_id": 91,
+    "state_id": 111,
+    "name": "Panchmahal",
+    "code": null
+  },
+  {
+    "id": 1036,
+    "continent_id": 3,
+    "country_id": 91,
+    "state_id": 111,
+    "name": "Sardoi",
+    "code": null
+  },
+  {
+    "id": 1037,
+    "continent_id": 3,
+    "country_id": 91,
+    "state_id": 111,
+    "name": "Veraval",
+    "code": null
+  },
+  {
+    "id": 1038,
+    "continent_id": 3,
+    "country_id": 91,
+    "state_id": 112,
+    "name": "Charkhi Dadri",
+    "code": null
+  },
+  {
+    "id": 1039,
+    "continent_id": 3,
+    "country_id": 91,
+    "state_id": 112,
+    "name": "Faridabad",
+    "code": null
+  },
+  {
+    "id": 1040,
+    "continent_id": 3,
+    "country_id": 91,
+    "state_id": 112,
+    "name": "Gurugram",
+    "code": null
+  },
+  {
+    "id": 1041,
+    "continent_id": 3,
+    "country_id": 91,
+    "state_id": 115,
+    "name": "Dhanbad",
+    "code": null
+  },
+  {
+    "id": 1042,
+    "continent_id": 3,
+    "country_id": 91,
+    "state_id": 117,
+    "name": "Alappuzha",
+    "code": null
+  },
+  {
+    "id": 1043,
+    "continent_id": 3,
+    "country_id": 91,
+    "state_id": 117,
+    "name": "Kollam",
+    "code": null
+  },
+  {
+    "id": 1044,
+    "continent_id": 3,
+    "country_id": 91,
+    "state_id": 117,
+    "name": "Palakkad",
+    "code": null
+  },
+  {
+    "id": 1045,
+    "continent_id": 3,
+    "country_id": 91,
+    "state_id": 117,
+    "name": "Thrissur",
+    "code": null
+  },
+  {
+    "id": 1046,
+    "continent_id": 3,
+    "country_id": 91,
+    "state_id": 120,
+    "name": "Agar",
+    "code": null
+  },
+  {
+    "id": 1047,
+    "continent_id": 3,
+    "country_id": 91,
+    "state_id": 120,
+    "name": "Neemuch",
+    "code": null
+  },
+  {
+    "id": 1048,
+    "continent_id": 3,
+    "country_id": 91,
+    "state_id": 121,
+    "name": "Amravati",
+    "code": null
+  },
+  {
+    "id": 1049,
+    "continent_id": 3,
+    "country_id": 91,
+    "state_id": 121,
+    "name": "Aurangabad",
+    "code": null
+  },
+  {
+    "id": 1050,
+    "continent_id": 3,
+    "country_id": 91,
+    "state_id": 121,
+    "name": "Badnera",
+    "code": null
+  },
+  {
+    "id": 1051,
+    "continent_id": 3,
+    "country_id": 91,
+    "state_id": 121,
+    "name": "Dhulia",
+    "code": null
+  },
+  {
+    "id": 1052,
+    "continent_id": 3,
+    "country_id": 91,
+    "state_id": 121,
+    "name": "Dindori Maharashtra",
+    "code": null
+  },
+  {
+    "id": 1053,
+    "continent_id": 3,
+    "country_id": 91,
+    "state_id": 121,
+    "name": "Nagpur",
+    "code": null
+  },
+  {
+    "id": 1054,
+    "continent_id": 3,
+    "country_id": 91,
+    "state_id": 121,
+    "name": "Nardana",
+    "code": null
+  },
+  {
+    "id": 1055,
+    "continent_id": 3,
+    "country_id": 91,
+    "state_id": 121,
+    "name": "Nashik",
+    "code": null
+  },
+  {
+    "id": 1056,
+    "continent_id": 3,
+    "country_id": 91,
+    "state_id": 121,
+    "name": "Palghar",
+    "code": null
+  },
+  {
+    "id": 1057,
+    "continent_id": 3,
+    "country_id": 91,
+    "state_id": 121,
+    "name": "Sivala East Godavari",
+    "code": null
+  },
+  {
+    "id": 1058,
+    "continent_id": 3,
+    "country_id": 91,
+    "state_id": 122,
+    "name": "Bishnupur",
+    "code": null
+  },
+  {
+    "id": 1059,
+    "continent_id": 3,
+    "country_id": 91,
+    "state_id": 122,
+    "name": "Jiribam",
+    "code": null
+  },
+  {
+    "id": 1060,
+    "continent_id": 3,
+    "country_id": 91,
+    "state_id": 122,
+    "name": "Kakching",
+    "code": null
+  },
+  {
+    "id": 1061,
+    "continent_id": 3,
+    "country_id": 91,
+    "state_id": 122,
+    "name": "Kamjong",
+    "code": null
+  },
+  {
+    "id": 1062,
+    "continent_id": 3,
+    "country_id": 91,
+    "state_id": 122,
+    "name": "Kangpokpi",
+    "code": null
+  },
+  {
+    "id": 1063,
+    "continent_id": 3,
+    "country_id": 91,
+    "state_id": 123,
+    "name": "North Garo Hills",
+    "code": null
+  },
+  {
+    "id": 1064,
+    "continent_id": 3,
+    "country_id": 91,
+    "state_id": 125,
+    "name": "Tuensang",
+    "code": null
+  },
+  {
+    "id": 1065,
+    "continent_id": 3,
+    "country_id": 91,
+    "state_id": 125,
+    "name": "Zunheboto",
+    "code": null
+  },
+  {
+    "id": 1066,
+    "continent_id": 3,
+    "country_id": 91,
+    "state_id": 126,
+    "name": "Angul",
+    "code": null
+  },
+  {
+    "id": 1067,
+    "continent_id": 3,
+    "country_id": 91,
+    "state_id": 126,
+    "name": "Jharsuguda",
+    "code": null
+  },
+  {
+    "id": 1068,
+    "continent_id": 3,
+    "country_id": 91,
+    "state_id": 126,
+    "name": "Nayagarh",
+    "code": null
+  },
+  {
+    "id": 1069,
+    "continent_id": 3,
+    "country_id": 91,
+    "state_id": 126,
+    "name": "Nowrangapur",
+    "code": null
+  },
+  {
+    "id": 1070,
+    "continent_id": 3,
+    "country_id": 91,
+    "state_id": 128,
+    "name": "Fazilka",
+    "code": null
+  },
+  {
+    "id": 1071,
+    "continent_id": 3,
+    "country_id": 91,
+    "state_id": 128,
+    "name": "Firozpur",
+    "code": null
+  },
+  {
+    "id": 1072,
+    "continent_id": 3,
+    "country_id": 91,
+    "state_id": 128,
+    "name": "Hoshiarpur",
+    "code": null
+  },
+  {
+    "id": 1073,
+    "continent_id": 3,
+    "country_id": 91,
+    "state_id": 130,
+    "name": "East",
+    "code": null
+  },
+  {
+    "id": 1074,
+    "continent_id": 3,
+    "country_id": 91,
+    "state_id": 130,
+    "name": "Gyalshing",
+    "code": null
+  },
+  {
+    "id": 1075,
+    "continent_id": 3,
+    "country_id": 91,
+    "state_id": 130,
+    "name": "North",
+    "code": null
+  },
+  {
+    "id": 1076,
+    "continent_id": 3,
+    "country_id": 91,
+    "state_id": 130,
+    "name": "South",
+    "code": null
+  },
+  {
+    "id": 1077,
+    "continent_id": 3,
+    "country_id": 91,
+    "state_id": 130,
+    "name": "West",
+    "code": null
+  },
+  {
+    "id": 1078,
+    "continent_id": 3,
+    "country_id": 91,
+    "state_id": 131,
+    "name": "Chingleput",
+    "code": null
+  },
+  {
+    "id": 1079,
+    "continent_id": 3,
+    "country_id": 91,
+    "state_id": 131,
+    "name": "Mayiladuthurai",
+    "code": null
+  },
+  {
+    "id": 1080,
+    "continent_id": 3,
+    "country_id": 91,
+    "state_id": 131,
+    "name": "Tirunelveli",
+    "code": null
+  },
+  {
+    "id": 1081,
+    "continent_id": 3,
+    "country_id": 91,
+    "state_id": 132,
+    "name": "Asifabad",
+    "code": null
+  },
+  {
+    "id": 1082,
+    "continent_id": 3,
+    "country_id": 91,
+    "state_id": 132,
+    "name": "Bhadradri Kothagudem",
+    "code": null
+  },
+  {
+    "id": 1083,
+    "continent_id": 3,
+    "country_id": 91,
+    "state_id": 132,
+    "name": "Bhongir",
+    "code": null
+  },
+  {
+    "id": 1084,
+    "continent_id": 3,
+    "country_id": 91,
+    "state_id": 132,
+    "name": "Gadwal",
+    "code": null
+  },
+  {
+    "id": 1085,
+    "continent_id": 3,
+    "country_id": 91,
+    "state_id": 132,
+    "name": "Jagtial",
+    "code": null
+  },
+  {
+    "id": 1086,
+    "continent_id": 3,
+    "country_id": 91,
+    "state_id": 132,
+    "name": "Jangaon",
+    "code": null
+  },
+  {
+    "id": 1087,
+    "continent_id": 3,
+    "country_id": 91,
+    "state_id": 132,
+    "name": "Jogulamba Gadwal",
+    "code": null
+  },
+  {
+    "id": 1088,
+    "continent_id": 3,
+    "country_id": 91,
+    "state_id": 132,
+    "name": "Kamareddi",
+    "code": null
+  },
+  {
+    "id": 1089,
+    "continent_id": 3,
+    "country_id": 91,
+    "state_id": 132,
+    "name": "Kamareddy",
+    "code": null
+  },
+  {
+    "id": 1090,
+    "continent_id": 3,
+    "country_id": 91,
+    "state_id": 132,
+    "name": "Kottagudem",
+    "code": null
+  },
+  {
+    "id": 1091,
+    "continent_id": 3,
+    "country_id": 91,
+    "state_id": 132,
+    "name": "Mahabubabad",
+    "code": null
+  },
+  {
+    "id": 1092,
+    "continent_id": 3,
+    "country_id": 91,
+    "state_id": 132,
+    "name": "Nagar Karnul",
+    "code": null
+  },
+  {
+    "id": 1093,
+    "continent_id": 3,
+    "country_id": 91,
+    "state_id": 132,
+    "name": "Narayanpet",
+    "code": null
+  },
+  {
+    "id": 1094,
+    "continent_id": 3,
+    "country_id": 91,
+    "state_id": 132,
+    "name": "Nirmal",
+    "code": null
+  },
+  {
+    "id": 1095,
+    "continent_id": 3,
+    "country_id": 91,
+    "state_id": 132,
+    "name": "Peddapalli",
+    "code": null
+  },
+  {
+    "id": 1096,
+    "continent_id": 3,
+    "country_id": 91,
+    "state_id": 132,
+    "name": "Rajanna Sircilla",
+    "code": null
+  },
+  {
+    "id": 1097,
+    "continent_id": 3,
+    "country_id": 91,
+    "state_id": 132,
+    "name": "Sangareddi",
+    "code": null
+  },
+  {
+    "id": 1098,
+    "continent_id": 3,
+    "country_id": 91,
+    "state_id": 132,
+    "name": "Siddipet",
+    "code": null
+  },
+  {
+    "id": 1099,
+    "continent_id": 3,
+    "country_id": 91,
+    "state_id": 132,
+    "name": "Sirsilla",
+    "code": null
+  },
+  {
+    "id": 1100,
+    "continent_id": 3,
+    "country_id": 91,
+    "state_id": 132,
+    "name": "Suriapet",
+    "code": null
+  },
+  {
+    "id": 1101,
+    "continent_id": 3,
+    "country_id": 91,
+    "state_id": 132,
+    "name": "Vikarabad",
+    "code": null
+  },
+  {
+    "id": 1102,
+    "continent_id": 3,
+    "country_id": 91,
+    "state_id": 132,
+    "name": "Wanparti",
+    "code": null
+  },
+  {
+    "id": 1103,
+    "continent_id": 3,
+    "country_id": 91,
+    "state_id": 133,
+    "name": "Belonia",
+    "code": null
+  },
+  {
+    "id": 1104,
+    "continent_id": 3,
+    "country_id": 91,
+    "state_id": 133,
+    "name": "Dharmanagar",
+    "code": null
+  },
+  {
+    "id": 1105,
+    "continent_id": 3,
+    "country_id": 91,
+    "state_id": 133,
+    "name": "Gomati",
+    "code": null
+  },
+  {
+    "id": 1106,
+    "continent_id": 3,
+    "country_id": 91,
+    "state_id": 133,
+    "name": "Kailashahar",
+    "code": null
+  },
+  {
+    "id": 1107,
+    "continent_id": 3,
+    "country_id": 91,
+    "state_id": 133,
+    "name": "Khowai",
+    "code": null
+  },
+  {
+    "id": 1108,
+    "continent_id": 3,
+    "country_id": 91,
+    "state_id": 133,
+    "name": "Udaipur",
+    "code": null
+  },
+  {
+    "id": 1109,
+    "continent_id": 3,
+    "country_id": 91,
+    "state_id": 134,
+    "name": "Agra",
+    "code": null
+  },
+  {
+    "id": 1110,
+    "continent_id": 3,
+    "country_id": 91,
+    "state_id": 134,
+    "name": "Azamgarh",
+    "code": null
+  },
+  {
+    "id": 1111,
+    "continent_id": 3,
+    "country_id": 91,
+    "state_id": 134,
+    "name": "Chandauli",
+    "code": null
+  },
+  {
+    "id": 1112,
+    "continent_id": 3,
+    "country_id": 91,
+    "state_id": 134,
+    "name": "Ghaziabad",
+    "code": null
+  },
+  {
+    "id": 1113,
+    "continent_id": 3,
+    "country_id": 91,
+    "state_id": 134,
+    "name": "Hapur",
+    "code": null
+  },
+  {
+    "id": 1114,
+    "continent_id": 3,
+    "country_id": 91,
+    "state_id": 134,
+    "name": "Ibrahimpur",
+    "code": null
+  },
+  {
+    "id": 1115,
+    "continent_id": 3,
+    "country_id": 91,
+    "state_id": 134,
+    "name": "Kaushambi",
+    "code": null
+  },
+  {
+    "id": 1116,
+    "continent_id": 3,
+    "country_id": 91,
+    "state_id": 134,
+    "name": "Kishanpur baral",
+    "code": null
+  },
+  {
+    "id": 1117,
+    "continent_id": 3,
+    "country_id": 91,
+    "state_id": 134,
+    "name": "Lucknow",
+    "code": null
+  },
+  {
+    "id": 1118,
+    "continent_id": 3,
+    "country_id": 91,
+    "state_id": 134,
+    "name": "Moradabad",
+    "code": null
+  },
+  {
+    "id": 1119,
+    "continent_id": 3,
+    "country_id": 91,
+    "state_id": 134,
+    "name": "Muradabad",
+    "code": null
+  },
+  {
+    "id": 1120,
+    "continent_id": 3,
+    "country_id": 91,
+    "state_id": 134,
+    "name": "Sambhal",
+    "code": null
+  },
+  {
+    "id": 1121,
+    "continent_id": 3,
+    "country_id": 91,
+    "state_id": 134,
+    "name": "Shamli",
+    "code": null
+  },
+  {
+    "id": 1122,
+    "continent_id": 3,
+    "country_id": 91,
+    "state_id": 136,
+    "name": "Alipurduar",
+    "code": null
+  },
+  {
+    "id": 1123,
+    "continent_id": 3,
+    "country_id": 91,
+    "state_id": 136,
+    "name": "Asansol",
+    "code": null
+  },
+  {
+    "id": 1124,
+    "continent_id": 3,
+    "country_id": 91,
+    "state_id": 136,
+    "name": "Birbhum",
+    "code": null
+  },
+  {
+    "id": 1125,
+    "continent_id": 3,
+    "country_id": 91,
+    "state_id": 136,
+    "name": "Birpara",
+    "code": null
+  },
+  {
+    "id": 1126,
+    "continent_id": 3,
+    "country_id": 91,
+    "state_id": 136,
+    "name": "Dakshin Dinajpur",
+    "code": null
+  },
+  {
+    "id": 1127,
+    "continent_id": 3,
+    "country_id": 91,
+    "state_id": 136,
+    "name": "Hooghly",
+    "code": null
+  },
+  {
+    "id": 1128,
+    "continent_id": 3,
+    "country_id": 91,
+    "state_id": 136,
+    "name": "Ingraj Bazar",
+    "code": null
+  },
+  {
+    "id": 1129,
+    "continent_id": 3,
+    "country_id": 91,
+    "state_id": 136,
+    "name": "Jalpaiguri",
+    "code": null
+  },
+  {
+    "id": 1130,
+    "continent_id": 3,
+    "country_id": 91,
+    "state_id": 136,
+    "name": "Jhargram",
+    "code": null
+  },
+  {
+    "id": 1131,
+    "continent_id": 3,
+    "country_id": 91,
+    "state_id": 136,
+    "name": "Nadia",
+    "code": null
+  },
+  {
+    "id": 1132,
+    "continent_id": 3,
+    "country_id": 91,
+    "state_id": 136,
+    "name": "North 24 Parganas",
+    "code": null
+  },
+  {
+    "id": 1133,
+    "continent_id": 3,
+    "country_id": 91,
+    "state_id": 136,
+    "name": "Paschim Medinipur",
+    "code": null
+  },
+  {
+    "id": 1134,
+    "continent_id": 3,
+    "country_id": 91,
+    "state_id": 136,
+    "name": "Purba Medinipur",
+    "code": null
+  },
+  {
+    "id": 1135,
+    "continent_id": 3,
+    "country_id": 91,
+    "state_id": 136,
+    "name": "South 24 Parganas",
+    "code": null
+  },
+  {
+    "id": 1136,
+    "continent_id": 3,
+    "country_id": 91,
+    "state_id": 136,
+    "name": "Uttar Dinajpur",
+    "code": null
+  }
+]

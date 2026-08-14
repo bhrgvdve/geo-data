@@ -1,0 +1,17 @@
+[
+  {
+    "language_id": 13,
+    "is_official": true,
+    "is_primary": true
+  },
+  {
+    "language_id": 48,
+    "is_official": true,
+    "is_primary": false
+  },
+  {
+    "language_id": 125,
+    "is_official": true,
+    "is_primary": false
+  }
+]

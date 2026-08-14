@@ -1,0 +1,57 @@
+[
+  {
+    "language_id": 1,
+    "is_official": true,
+    "is_primary": true
+  },
+  {
+    "language_id": 32,
+    "is_official": true,
+    "is_primary": false
+  },
+  {
+    "language_id": 99,
+    "is_official": true,
+    "is_primary": false
+  },
+  {
+    "language_id": 123,
+    "is_official": true,
+    "is_primary": false
+  },
+  {
+    "language_id": 124,
+    "is_official": true,
+    "is_primary": false
+  },
+  {
+    "language_id": 127,
+    "is_official": true,
+    "is_primary": false
+  },
+  {
+    "language_id": 140,
+    "is_official": true,
+    "is_primary": false
+  },
+  {
+    "language_id": 141,
+    "is_official": true,
+    "is_primary": false
+  },
+  {
+    "language_id": 149,
+    "is_official": true,
+    "is_primary": false
+  },
+  {
+    "language_id": 151,
+    "is_official": true,
+    "is_primary": false
+  },
+  {
+    "language_id": 153,
+    "is_official": true,
+    "is_primary": false
+  }
+]

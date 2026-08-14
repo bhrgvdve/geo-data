@@ -1,0 +1,22 @@
+[
+  {
+    "calling_code_id": 246,
+    "is_primary": true
+  },
+  {
+    "calling_code_id": 247,
+    "is_primary": false
+  },
+  {
+    "calling_code_id": 248,
+    "is_primary": false
+  },
+  {
+    "calling_code_id": 249,
+    "is_primary": false
+  },
+  {
+    "calling_code_id": 250,
+    "is_primary": false
+  }
+]

@@ -1,0 +1,54 @@
+[
+  {
+    "timezone_id": 204,
+    "is_primary": true
+  },
+  {
+    "timezone_id": 306,
+    "is_primary": false
+  },
+  {
+    "timezone_id": 307,
+    "is_primary": false
+  },
+  {
+    "timezone_id": 308,
+    "is_primary": false
+  },
+  {
+    "timezone_id": 309,
+    "is_primary": false
+  },
+  {
+    "timezone_id": 310,
+    "is_primary": false
+  },
+  {
+    "timezone_id": 311,
+    "is_primary": false
+  },
+  {
+    "timezone_id": 312,
+    "is_primary": false
+  },
+  {
+    "timezone_id": 313,
+    "is_primary": false
+  },
+  {
+    "timezone_id": 314,
+    "is_primary": false
+  },
+  {
+    "timezone_id": 315,
+    "is_primary": false
+  },
+  {
+    "timezone_id": 316,
+    "is_primary": false
+  },
+  {
+    "timezone_id": 317,
+    "is_primary": false
+  }
+]
